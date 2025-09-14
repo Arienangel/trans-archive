@@ -1,0 +1,81 @@
+site_name: 跨性別檔案館
+site_url: !ENV [site_url, '']
+nav:
+  - 網站: website.md
+  - 社群: community.md
+  - 資源: resource.md
+  - 文件: document.md
+theme:
+  name: material
+  language: zh-TW
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.tabs.sticky
+    - toc.follow
+    - search.suggest
+    - search.highlight
+  palette:
+    - scheme: default
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  font: false
+  icon:
+    logo: material/archive-arrow-down-outline
+plugins:
+  - macros:
+      on_error_fail: true
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+  - search
+markdown_extensions:
+  - attr_list
+  - toc:
+      toc_depth: 6
+      permalink: true
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.snippets
+extra:
+  generator: false
+  icons:
+    link: ":link:"
+    file: ":page_facing_up:"
+    archive: ":package:"
+    email: ":envelope:"
+    unknown: ":question:"
+    git: ":fontawesome-brands-git-alt:"
+    line: ":simple-line:"
+    dcard: ":fontawesome-solid-d:"
+    ptt: ":fontawesome-solid-p:"
+    plurk: ":simple-plurk:"
+    discord: ":fontawesome-brands-discord:"
+    facebook: ":fontawesome-brands-facebook:"
+    reddit: ":fontawesome-brands-reddit:"
+    telegram: ":fontawesome-brands-telegram:"
+    twitter: ":fontawesome-brands-twitter:"
+    googleplay: ":fontawesome-brands-google-play:"
+    googledrive: ":fontawesome-brands-google-drive:"
+    youtube: ":fontawesome-brands-youtube:"
+extra_css:
+  - assets/stylesheets/global.css

@@ -1,0 +1,19 @@
+services:
+  build:
+    image: docker.io/library/python:3.13-slim-bookworm
+    container_name: trans-archive-mkdocs
+    volumes:
+      - ./:/app
+    working_dir: /app
+    command: bash -c 'if [ ! -d ".venv" ]; then python3 -m venv .venv; fi && source .venv/bin/activate && pip install --no-cache-dir -r requirements.txt && mkdocs build --clean'
+    env_file: .env
+
+  webserver: # http.server is not recommended for production
+    image: docker.io/library/python:3.13-slim-bookworm
+    container_name: trans-archive-webserver
+    volumes:
+      - ./site:/html
+    working_dir: /html
+    command: python3 -m http.server 8080
+    ports:
+      - 8080:8080

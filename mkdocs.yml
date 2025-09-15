@@ -31,6 +31,7 @@ theme:
   font: false
   icon:
     logo: material/archive-arrow-down-outline
+  custom_dir: overrides
 plugins:
   - macros:
       on_error_fail: true
@@ -77,5 +78,6 @@ extra:
     googleplay: ":fontawesome-brands-google-play:"
     googledrive: ":fontawesome-brands-google-drive:"
     youtube: ":fontawesome-brands-youtube:"
+  onion_location: !ENV [onion_location, '']
 extra_css:
   - assets/stylesheets/global.css

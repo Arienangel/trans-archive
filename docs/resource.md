@@ -13,6 +13,7 @@
 ## RLE/Voice { #rle }
 - 中大尺碼鞋: [{{ icons.googledrive }}](https://docs.google.com/spreadsheets/d/1v7ulGhciRNmqKfYa1WoX0fj52cQLj8xpZCYBX8Y3iiY/view)
 - 服飾鞋子商家相關表單: [{{ icons.googledrive }}](https://docs.google.com/spreadsheets/d/19ab1-eOeMH0scveo6WcyHMPzvMU-MZvWBSA03pVV0U4/view)
+- TransVoice Wiki: [{{ icons.link }}中文版](https://transvoice-wiki.pages.dev/) [{{ icons.link }}英文版](https://wiki.sumianvoice.com/)
 - Voice Lab! 新手包: [{{ icons.telegram }}](https://t.me/+m0rXsTRbH4A1MWJl) [{{ icons.git }}](https://github.com/awesometrans/archive/blob/main/%E5%A3%B0%E9%9F%B3/Voice%20Lab!%20%E6%96%B0%E6%89%8B%E5%8C%85)
 - Genderfluent: [{{ icons.link }}](https://app.genderfluentapp.com/)
 - Voice Tools (Alpha): [{{ icons.link }}](https://voice.hydev.org/)
@@ -25,6 +26,8 @@
 - 跨性別女性化賀爾蒙療法(施秉庚): [{{ icons.link }}](https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=6907)
 - 女性化賀爾蒙治療HRT基礎知識(不明小站): [{{ icons.file }}](./assets/documents/女性化賀爾蒙治療HRT基礎知識(不明小站).md)
 - 跨男的賀爾蒙置換療法（HRT）實用入門手冊: [{{ icons.link }}](https://trans-attaboy.com/hrt-guidebook/)
+- MtF GAHT 资料: [{{ icons.link }}](https://docs.hrt.guide/)
+- 「荷爾蒙的大小事」講座—個人重點筆記分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/235747370)
 
 ## SRS { #srs }
 - Neovagina Surgery: Types of Vaginoplasty: [{{ icons.link }}](https://www.verywellhealth.com/different-types-of-vaginoplasty-4171503)
@@ -33,11 +36,7 @@
 - 2024去泰國變性要花多少錢？(愛里):  [{{ icons.youtube }}](https://www.youtube.com/watch?v=YKvG8v7GsLM)
 - 一起看變性手術影片(照鏡照鏡子): [{{ icons.youtube }}](https://www.youtube.com/watch?v=ndaYk3QOn0U)
 - Sex Reassignment Male to Female Surgery: [{{ icons.youtube }}](https://www.youtube.com/watch?v=SH-j3r_Rwsw)
-- SRS in male-to-female transgenders: [{{ icons.youtube }}](https://www.youtube.com/1S2C5ZypsGI)
-- Gender affirming surgery: [{{ icons.youtube }}](https://www.youtube.com/n6xpuzuVR-4)
-- FTM Sexual reassignment surgery: [{{ icons.youtube }}](https://www.youtube.com/8mIZLJIUqNw)
-- chest wall contouring surgery: [{{ icons.youtube }}](https://www.youtube.com/hmEJyWzMDG8)
-- 睾丸摘出手術 orchidectomy: [{{ icons.youtube }}](https://www.youtube.com/g6B8vYEu9oM)
+- 睾丸摘出手術 orchidectomy: [{{ icons.youtube }}](https://www.youtube.com/watch?v=g6B8vYEu9oM)
 
 ### PAI (Burin, Sutin) { #srs-pai }
 - PAI Clinic: [{{ icons.link }}](https://pai.co.th/)
@@ -95,6 +94,23 @@
 ### 胡瀞暄 { #srs-ChingHsuanHU }
 - 2023/06 長庚SRS後四週半身體狀況: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/243346277)
 - 2024/06 林口長庚性別重置手術術前術後指南: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/256022377)
+- 胡瀞暄醫師性別重置手術 跨男場: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/255799205)
 
 ### 施秉庚 { #srs-PinKengShih }
 - 性別重置手術中心: [{{ icons.link }}](https://transgender.com.tw/about.html)
+
+### 沈秉輝 { #srs-BingHweiShen }
+- SRS in male-to-female transgenders: [{{ icons.youtube }}](https://www.youtube.com/watch?v=1S2C5ZypsGI)
+- Gender affirming surgery: [{{ icons.youtube }}](https://www.youtube.com/watch?v=n6xpuzuVR-4)
+- FTM Sexual reassignment surgery: [{{ icons.youtube }}](https://www.youtube.com/watch?v=8mIZLJIUqNw)
+- chest wall contouring surgery: [{{ icons.youtube }}](https://www.youtube.com/watch?v=hmEJyWzMDG8)
+
+### 陳柏諺 { #srs-PoYenChen }
+- 陳柏諺醫師跨性別手術札記 性別重置手術: [{{ icons.link }}](https://chenpoyen.com/)
+- SRS術後七周: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/259427214)
+
+### 其他
+- MTF性別重置手術 記錄: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/239711431)
+- 住院前的準備清單-摘除手術: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/242487733)
+- 台北榮總SRS手術分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/257365690)
+- 台中平胸手術分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/258719970)

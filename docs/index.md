@@ -17,7 +17,6 @@
 - [RLE/Voice](./resource.md#rle)
 - [HRT](./resource.md#hrt)
 - [SRS](./resource.md#srs)
-- [FFS](./resource.md#ffs)
 
 ## [文件](./document.md) { #document }
 - [文章/公文](./document.md#article)

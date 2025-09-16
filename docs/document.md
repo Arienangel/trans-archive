@@ -19,6 +19,8 @@
 ## 研究報告 { #report }
 - 各國跨性別登記制度(2013委託逢甲大學): [{{ icons.link }}](https://gec.ey.gov.tw/Page/89D22259C32BB1A1)
 - 原發性變性慾症患者精神狀態臨床特徵及追蹤研究(2014臺北榮民總醫院精神病部): [{{ icons.link }}](https://taiwan-gist.nknu.edu.tw/images/2.%20nstc%20gender%20and%20technology%20project%20reports/101/101-22.pdf)
+- 台灣同志(LGBTQ+)學生校園經驗調查報告(2020台灣同志諮詢熱線協會): [{{ icons.link }}](https://hotline.org.tw/news/3166)
+- 台灣同志(LGBTQ+)職場現況調查(2023台灣同志諮詢熱線協會): [{{ icons.link }}](https://hotline.org.tw/news/3355)
 - 性別變更要件法制化及立法建議(2022委託世新大學): [{{ icons.link }}](https://gec.ey.gov.tw/Page/C0A6CC38F299B3B7)
 - 性別平等觀念電話民意調查(2023行政院性平會): [{{ icons.link }}](https://gec.ey.gov.tw/Page/C0A6CC38F299B3B7)
 - 台灣跨性別族群生活處境報告(2023台灣同志諮詢熱線協會): [{{ icons.link }}](https://hotline.org.tw/news/3408)

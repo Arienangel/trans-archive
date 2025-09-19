@@ -1,10 +1,10 @@
 # 社群
 
 ## {{ icons.line }} Line 社群 { #line-openchat }
-- 台灣跨性別協會: [{{ icons.link }}](https://line.me/ti/g2/MSObNQX4SFY9FJoDrO2zgBugW1Os6InVgxc1qQ)
+- 台灣跨性別協會: [{{ icons.link }}](https://line.me/ti/g2/KCJIeuoy246Be-G4L6jZuJ2LMCU0OmhKQ963gQ)
 - 嬲 跨性別隨意聊 嫐: [{{ icons.link }}](https://line.me/ti/g2/oUOfIcMTVa84-63VxbPkaJXhV4Jq7EFdkjP1iQ)
 - 跨性別友善交流群: [{{ icons.link }}](https://line.me/ti/g2/XuAPKJa_i8BBOsXVOABEY2teaPTw6iRBiGOjog)
-- MTF之家: [{{ icons.link }}](https://line.me/ti/g2/YfLfbQBxLou-lVa27nX7Xq_mNeeKFw60b4HfzA)
+- 一群發瘋的女人: [{{ icons.link }}](https://line.me/ti/g2/YfLfbQBxLou-lVa27nX7Xq_mNeeKFw60b4HfzA)
 - 非二元性別/性別酷兒/無性戀(etc)交流群（Nonbinary/AceAro）: [{{ icons.link }}](https://line.me/ti/g2/lZzvHQenXq_S5HId0_rYFrDt1Pioq-w3BuWMbw)
 - CD TS 姐妹們站起來 心情聊天室: [{{ icons.link }}](https://line.me/ti/g2/nHCDvdoDaY23-5SJdx3nig)
 - 'TS.CD.三性國際交流協會(㍿)'🏳️‍⚧: [{{ icons.link }}](https://line.me/ti/g2/jO56May_Ew-An4KzergdfQ)
@@ -17,7 +17,7 @@
 - transgender: [{{ icons.link }}](https://www.ptt.cc/bbs/transgender/)
 
 ## {{ icons.facebook }} Facebook { #facebook }
-- 愛里跨性別社團: [{{ icons.link }}](https://www.facebook.com/groups/taiwantransgender)
+- 台灣跨性別社團: [{{ icons.link }}](https://www.facebook.com/groups/taiwantransgender)
 - 台灣跨性別共融之家: [{{ icons.link }}](https://www.facebook.com/groups/945173803593462/)
 
 ## {{ icons.telegram }} Telegram { #telegram }

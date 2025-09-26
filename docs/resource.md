@@ -98,6 +98,7 @@
 
 ### 施秉庚 { #srs-PinKengShih }
 - 性別重置手術中心: [{{ icons.link }}](https://transgender.com.tw/about.html)
+- 變性手術(男變女)常見問題: [{{ icons.link }}](https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=6857)
 
 ### 沈秉輝 { #srs-BingHweiShen }
 - SRS in male-to-female transgenders: [{{ icons.youtube }}](https://www.youtube.com/watch?v=1S2C5ZypsGI)

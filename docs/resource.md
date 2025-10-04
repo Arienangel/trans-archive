@@ -37,6 +37,7 @@
 - 一起看變性手術影片(照鏡照鏡子): [{{ icons.youtube }}](https://www.youtube.com/watch?v=ndaYk3QOn0U)
 - Sex Reassignment Male to Female Surgery: [{{ icons.youtube }}](https://www.youtube.com/watch?v=SH-j3r_Rwsw)
 - 睾丸摘出手術 orchidectomy: [{{ icons.youtube }}](https://www.youtube.com/watch?v=g6B8vYEu9oM)
+- 全部文章–泰華醫療服務 (梁金): [{{ icons.link }}](https://tcmspro.com/category/uncategorized/)
 
 ### PAI (Burin, Sutin) { #srs-pai }
 - PAI Clinic: [{{ icons.link }}](https://pai.co.th/)

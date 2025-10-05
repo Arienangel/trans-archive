@@ -43,8 +43,8 @@
 - 2025/06/19 臺北高等行政法院 高等庭 113 年度訴字第 1213 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,113%2c%e8%a8%b4%2c1213%2c20250619%2c2)
 
 ## 影音 { #media }
-- The Gender Unicorn: [{{ icons.link }}](https://www.itspronouncedmetrosexual.com/2018/10/the-genderbread-person-v4/)
-- The Genderbread Person: [{{ icons.link }}](https://www.samkillermann.com/work/genderbread-person/)
+- The Gender Unicorn: [{{ icons.link }}](https://transstudent.org/gender/)
+- The Genderbread Person: [{{ icons.link }}](https://www.itspronouncedmetrosexual.com/2018/10/the-genderbread-person-v4/) [{{ icons.link }}](https://www.samkillermann.com/work/genderbread-person/)
 - Beyond XX and XY: The Extraordinary Complexity of Sex Determination: [{{ icons.link }}](https://www.scientificamerican.com/article/beyond-xx-and-xy-the-extraordinary-complexity-of-sex-determination/)
 
 ## 反跨 [{{ icons.link }}](./anti-trans.md) { #anti-trans }

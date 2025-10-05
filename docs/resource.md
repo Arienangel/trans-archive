@@ -21,13 +21,24 @@
 - Voice Tools: [{{ icons.googleplay }}](https://play.google.com/store/apps/details?id=com.DevExtras.VoiceTools)
 - Voice Pitch Analyzer: [{{ icons.googleplay }}](https://apkpure.com/voice-pitch-analyzer/de.lilithwittmann.voicepitchanalyzer)
 
+## 精神科看診 { #gd }
+- 《分享》台大醫院開立 GID 流程: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/237079644)
+- 兵役體檢詢問（更新實際流程）: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/238655006)
+- 分享關於替代役備役申請免役流程: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/258109946)
+- 兵役複檢流程心得: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/253656631)
+
 ## HRT { #hrt }
-- 荷爾蒙治療-MTF(劉妙真): [{{ icons.file }}](https://sex.ncu.edu.tw/intermargins/repression/deviant/transgender/tgpamphlet/2004Jan-Jun/hormones-MtF.pdf)
+- 荷爾蒙治療-MTF(劉妙真): [{{ icons.link }}](https://sex.ncu.edu.tw/intermargins/repression/deviant/transgender/tgpamphlet/2004Jan-Jun/hormones-MtF.pdf)
 - 跨性別女性化賀爾蒙療法(施秉庚): [{{ icons.link }}](https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=6907)
 - 女性化賀爾蒙治療HRT基礎知識(不明小站): [{{ icons.file }}](./assets/documents/女性化賀爾蒙治療HRT基礎知識(不明小站).md)
 - 跨男的賀爾蒙置換療法（HRT）實用入門手冊: [{{ icons.link }}](https://trans-attaboy.com/hrt-guidebook/)
 - MtF GAHT 资料: [{{ icons.link }}](https://docs.hrt.guide/)
 - 「荷爾蒙的大小事」講座—個人重點筆記分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/235747370)
+- 18歲就確定好自己要當男生！施打HRT激素替代療法7個月的心得（睪固酮）: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/256073954)
+- 跨女HRT經驗分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/240811350)
+- 醋酸環丙孕酮(安得卡)相關研究: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/239404319)
+- Information on Estrogen Hormone Therapy: [{{ icons.link }}](https://transcare.ucsf.edu/article/information-estrogen-hormone-therapy)
+- Information on Testosterone Hormone Therapy: [{{ icons.link }}](https://transcare.ucsf.edu/article/information-testosterone-hormone-therapy)
 
 ## SRS { #srs }
 - Neovagina Surgery: Types of Vaginoplasty: [{{ icons.link }}](https://www.verywellhealth.com/different-types-of-vaginoplasty-4171503)
@@ -106,13 +117,16 @@
 - Gender affirming surgery: [{{ icons.youtube }}](https://www.youtube.com/watch?v=n6xpuzuVR-4)
 - FTM Sexual reassignment surgery: [{{ icons.youtube }}](https://www.youtube.com/watch?v=8mIZLJIUqNw)
 - chest wall contouring surgery: [{{ icons.youtube }}](https://www.youtube.com/watch?v=hmEJyWzMDG8)
+- 臺灣SRS 2023手術分享與過程紀錄: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/252950778)
 
 ### 陳柏諺 { #srs-PoYenChen }
 - 陳柏諺醫師跨性別手術札記 性別重置手術: [{{ icons.link }}](https://chenpoyen.com/)
 - SRS術後七周: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/259427214)
 
 ### 其他
-- MTF性別重置手術 記錄: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/239711431)
-- 住院前的準備清單-摘除手術: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/242487733)
 - 台北榮總SRS手術分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/257365690)
+- MTF性別重置手術 記錄: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/239711431)
 - 台中平胸手術分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/258719970)
+- 住院前的準備清單-摘除手術: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/242487733)
+- SRS - Sex Reassignment Surgery (Chalterra): [{{ icons.archive }}](https://web.archive.org/web/20150510204732/http://ameblo.jp:80/chalterra77/entry-11948268399.html)
+- 纽约免费SRS-0深度: [{{ icons.telegram }}](https://t.me/NewYorkFreeSRS)

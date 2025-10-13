@@ -71,7 +71,8 @@
 - 2024/07 meiza @PAI Burin: [{{ icons.telegram }}](https://t.me/meizaSRS)
 - 2024/07 PAI SRS手术物品准备清单参考: [{{ icons.link }}](https://meiza.cc/?p=1274)
 - 2025/03 击剑带师🤺的SRS之旅: [{{ icons.telegram }}](https://t.me/Jtldmio)
-- <font class="unknown">2025/08? surgery_with_dr_sutin.log:</font> [{{ icons.telegram }}](https://t.me/WindySRS)
+- 2025/07 Moli’s 猫娘日记: [{{ icons.telegram }}](https://t.me/MoliLanxi)
+- <font class="unknown">surgery_with_dr_sutin.log:</font> [{{ icons.telegram }}](https://t.me/WindySRS)
 - srs泰国-布林: [{{ icons.link }}](https://pizyj.notion.site/)
 
 ### Kamol { #srs-kamol }
@@ -129,4 +130,4 @@
 - 台中平胸手術分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/258719970)
 - 住院前的準備清單-摘除手術: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/242487733)
 - SRS - Sex Reassignment Surgery (Chalterra): [{{ icons.archive }}](https://web.archive.org/web/20150510204732/http://ameblo.jp:80/chalterra77/entry-11948268399.html)
-- 纽约免费SRS-0深度: [{{ icons.telegram }}](https://t.me/NewYorkFreeSRS)
+- <font class="unknown">纽约免费SRS-0深度:</font> [{{ icons.telegram }}](https://t.me/NewYorkFreeSRS)

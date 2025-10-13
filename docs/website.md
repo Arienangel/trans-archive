@@ -30,7 +30,6 @@
     - 伴盟跨性別資訊平台: [{{ icons.link }}](https://transgender.tapcpr.org/)
 - 臺灣跨性別醫學學會: [{{ icons.link }}](http://tatm.org.tw/) [{{ icons.facebook }}](https://www.facebook.com/transgendermedicaltw/)
 - 彩虹平權大平台: [{{ icons.link }}](https://equallove.tw/) [{{ icons.facebook }}](https://www.facebook.com/equallovetw)
-- 臺灣同志遊行: [{{ icons.link }}](https://www.taiwanpride.lgbt/) [{{ icons.facebook }}](https://www.facebook.com/Taiwan.LGBT.Pride/)
 - 台灣同志家庭權益促進會: [{{ icons.link }}](https://lgbtfamily.org.tw/) [{{ icons.facebook }}](https://www.facebook.com/twlgbtfamily/)
 - 台灣非二元酷兒浪子: [{{ icons.facebook }}](https://www.facebook.com/TaiwanNonbinary/)
 - 社團法人台灣基地協會: [{{ icons.link }}](https://www.gdi.org.tw/) [{{ icons.facebook }}](https://www.facebook.com/TaichungGDi/)

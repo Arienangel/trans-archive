@@ -17,6 +17,7 @@
 - Voice Lab! 新手包: [{{ icons.telegram }}](https://t.me/+m0rXsTRbH4A1MWJl) [{{ icons.git }}](https://github.com/awesometrans/archive/blob/main/%E5%A3%B0%E9%9F%B3/Voice%20Lab!%20%E6%96%B0%E6%89%8B%E5%8C%85)
 - Genderfluent: [{{ icons.link }}](https://app.genderfluentapp.com/)
 - Voice Tools (Alpha): [{{ icons.link }}](https://voice.hydev.org/)
+- saina.chat: [{{ icons.link }}](https://saina.chat/)
 - Spectroid: [{{ icons.googleplay }}](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum)
 - Voice Tools: [{{ icons.googleplay }}](https://play.google.com/store/apps/details?id=com.DevExtras.VoiceTools)
 - Voice Pitch Analyzer: [{{ icons.googleplay }}](https://apkpure.com/voice-pitch-analyzer/de.lilithwittmann.voicepitchanalyzer)

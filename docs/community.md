@@ -23,7 +23,7 @@
 
 ## {{ icons.telegram }} Telegram { #telegram }
 - New Voice lab: [{{ icons.link }}](https://t.me/+m0rXsTRbH4A1MWJl)
-- Backlight Town 逆光小鎮: {{ icons.unknown }}
+- Backlight Town 逆光小鎮: [{{ icons.link }}](https://forms.gle/jagHaEqpWWzwQZHk7) [{{ icons.facebook }}](https://www.facebook.com/61571690964724) [{{ icons.twitter }}](https://x.com/backlighttown)
 
 ## {{ icons.discord }} Discord { #discord }
 - Spectrum: [{{ icons.link }}](http://discord.gg/lgbtq)

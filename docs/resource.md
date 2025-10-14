@@ -7,7 +7,7 @@
 - 性別友善精神科醫師(未竟之路): [{{ icons.file }}](./assets/documents/性別友善精神科醫師(未竟之路).md)
 - 跨性別友善精神科醫生(不明小站): [{{ icons.file }}](./assets/documents/跨性別友善精神科醫生(不明小站).md)
 - 賀爾蒙治療醫師(未竟之路): [{{ icons.file }}](./assets/documents/賀爾蒙治療醫師(未竟之路).md)
-- 2022.7 還在開證明、HRT及手術的醫師(PTT): [{{ icons.link }}](https://www.ptt.cc/bbs/transgender/M.1323013579.A.C29.html)
+- 2022.7 還在開證明、HRT及手術的醫師(PTT): [{{ icons.ptt }}](https://www.ptt.cc/bbs/transgender/M.1323013579.A.C29.html)
 - 臺灣變性評估醫院、醫師與收費情形及荷爾蒙治療項目表: [{{ icons.archive }}](https://web.archive.org/web/20230921230341/http://intermargins.net/repression/deviant/transgender/tgpamphlet/charge.htm)
 
 ## RLE/Voice { #rle }
@@ -29,7 +29,7 @@
 - 兵役複檢流程心得: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/253656631)
 
 ## HRT { #hrt }
-- 荷爾蒙治療-MTF(劉妙真): [{{ icons.link }}](https://sex.ncu.edu.tw/intermargins/repression/deviant/transgender/tgpamphlet/2004Jan-Jun/hormones-MtF.pdf)
+- 荷爾蒙治療-MTF(劉妙真): [{{ icons.file }}](https://sex.ncu.edu.tw/intermargins/repression/deviant/transgender/tgpamphlet/2004Jan-Jun/hormones-MtF.pdf)
 - 跨性別女性化賀爾蒙療法(施秉庚): [{{ icons.link }}](https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=6907)
 - 女性化賀爾蒙治療HRT基礎知識(不明小站): [{{ icons.file }}](./assets/documents/女性化賀爾蒙治療HRT基礎知識(不明小站).md)
 - 跨男的賀爾蒙置換療法（HRT）實用入門手冊: [{{ icons.link }}](https://trans-attaboy.com/hrt-guidebook/)
@@ -98,7 +98,7 @@
 ### Suporn { #srs-suporn }
 - Calendar (Suporn Clinic): [{{ icons.link }}](https://supornclinic.com/calendar/)
 - Results (Suporn Clinic): [{{ icons.link }}](https://supornclinic.com/results/) [{{ icons.archive }}](https://web.archive.org/web/20150221041755/http://supornclinic.com/restricted/SRS/Results.aspx)
-- A Butterfly’s Journey SRS with Dr Suporn: [{{ icons.link }}](https://www.reddit.com/r/Transgender_Surgeries/comments/fayd3p/srs_with_dr_suporn_pdf_5th_edition/)
+- A Butterfly’s Journey SRS with Dr Suporn: [{{ icons.reddit }}](https://www.reddit.com/r/Transgender_Surgeries/comments/fayd3p/srs_with_dr_suporn_pdf_5th_edition/)
 - 第二人生-1 (Suporn診所手術記實): [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/243075762)
     - 第二人生-2 (Suporn診所手術記實): [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/243076071)
 

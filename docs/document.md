@@ -4,7 +4,7 @@
 - 內授中戶字第0970066240號: [{{ icons.link }}](https://gazette.nat.gov.tw/egFront/detail.do?metaid=27169)
 - LGBT資訊專區-性別變更: [{{ icons.link }}](https://lgbt.gov.taipei/cp.aspx?n=7141B7FAB560582E)
 - 未成年雙性人之醫療矯正手術共同性建議原則(2018衛服部): [{{ icons.link }}](https://dep.mohw.gov.tw/doma/cp-2708-45096-106.html)
-- 解答你的問題:關於跨性別者性別認同及性別表達(2011美國心理學會): [{{ icons.link }}](https://www.apa.org/topics/lgbtq/chinese-transgender.pdf)
+- 解答你的問題:關於跨性別者性別認同及性別表達(2011美國心理學會): [{{ icons.file }}](https://www.apa.org/topics/lgbtq/chinese-transgender.pdf)
 - Post-Election 2024 Anti-Trans Risk Assessment Map: [{{ icons.link }}](https://www.erininthemorning.com/p/post-election-2024-anti-trans-risk)
 - US Transgender Passport FAQ (2025): [{{ icons.reddit }}](https://www.reddit.com/r/Passports/comments/1iga2wj/us_transgender_passport_faq/) [{{ icons.googledrive }}](https://docs.google.com/document/d/1q0UjQk-OABTdzUNokBdNToylktYsyGJd1GI5XvyyYcY/view)
 
@@ -18,7 +18,7 @@
 
 ## 研究報告 { #report }
 - 各國跨性別登記制度(2013委託逢甲大學): [{{ icons.link }}](https://gec.ey.gov.tw/Page/89D22259C32BB1A1)
-- 原發性變性慾症患者精神狀態臨床特徵及追蹤研究(2014臺北榮民總醫院精神病部): [{{ icons.link }}](https://taiwan-gist.nknu.edu.tw/images/2.%20nstc%20gender%20and%20technology%20project%20reports/101/101-22.pdf)
+- 原發性變性慾症患者精神狀態臨床特徵及追蹤研究(2014臺北榮民總醫院精神病部): [{{ icons.file }}](https://taiwan-gist.nknu.edu.tw/images/2.%20nstc%20gender%20and%20technology%20project%20reports/101/101-22.pdf)
 - 台灣同志(LGBTQ+)學生校園經驗調查報告(2020台灣同志諮詢熱線協會): [{{ icons.link }}](https://hotline.org.tw/news/3166)
 - 台灣同志(LGBTQ+)職場現況調查(2023台灣同志諮詢熱線協會): [{{ icons.link }}](https://hotline.org.tw/news/3355)
 - 性別變更要件法制化及立法建議(2022委託世新大學): [{{ icons.link }}](https://gec.ey.gov.tw/Page/C0A6CC38F299B3B7)

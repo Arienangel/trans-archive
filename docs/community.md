@@ -67,7 +67,7 @@
     - r/agender: [{{ icons.link }}](https://www.reddit.com/r/agender/)
     - r/intersex: [{{ icons.link }}](https://www.reddit.com/r/intersex)
 - Medical
-    - r/TransSurgeriesWiki: [{{ icons.link }}](https://www.reddit.com/r/TransSurgeriesWiki/)
+    - r/TransSurgeriesWiki: [{{ icons.link }}](https://www.reddit.com/r/TransSurgeriesWiki/) [{{ icons.git }}](https://github.com/zp100/Transgender_Surgeries)
     - r/Transgender_Surgeries: [{{ icons.link }}](https://www.reddit.com/r/Transgender_Surgeries/)
     - r/AskMtFHRT: [{{ icons.link }}](https://www.reddit.com/r/AskMtFHRT/)
     - r/estrogel: [{{ icons.link }}](https://www.reddit.com/r/estrogel/)

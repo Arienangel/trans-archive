@@ -5,6 +5,7 @@
 - LGBT資訊專區-性別變更: [{{ icons.link }}](https://lgbt.gov.taipei/cp.aspx?n=7141B7FAB560582E)
 - 未成年雙性人之醫療矯正手術共同性建議原則(2018衛服部): [{{ icons.link }}](https://dep.mohw.gov.tw/doma/cp-2708-45096-106.html)
 - 解答你的問題:關於跨性別者性別認同及性別表達(2011美國心理學會): [{{ icons.file }}](https://www.apa.org/topics/lgbtq/chinese-transgender.pdf)
+- 全球性別承認法規一覽: [{{ icons.link }}](https://www.hktranslawdb.org/post/worldwidedb)
 - Post-Election 2024 Anti-Trans Risk Assessment Map: [{{ icons.link }}](https://www.erininthemorning.com/p/post-election-2024-anti-trans-risk)
 - US Transgender Passport FAQ (2025): [{{ icons.reddit }}](https://www.reddit.com/r/Passports/comments/1iga2wj/us_transgender_passport_faq/) [{{ icons.googledrive }}](https://docs.google.com/document/d/1q0UjQk-OABTdzUNokBdNToylktYsyGJd1GI5XvyyYcY/view)
 

@@ -50,6 +50,7 @@
 - Sex Reassignment Male to Female Surgery: [{{ icons.youtube }}](https://www.youtube.com/watch?v=SH-j3r_Rwsw)
 - 睾丸摘出手術 orchidectomy: [{{ icons.youtube }}](https://www.youtube.com/watch?v=g6B8vYEu9oM)
 - 全部文章–泰華醫療服務 (梁金): [{{ icons.link }}](https://tcmspro.com/category/uncategorized/)
+- 曼谷雨小雨: [{{ icons.twitter }}](https://x.com/manguyuxiaoyu)
 
 ### PAI (Burin, Sutin) { #srs-pai }
 - PAI Clinic: [{{ icons.link }}](https://pai.co.th/)

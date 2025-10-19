@@ -33,6 +33,7 @@
 - 台灣同志家庭權益促進會: [{{ icons.link }}](https://lgbtfamily.org.tw/) [{{ icons.facebook }}](https://www.facebook.com/twlgbtfamily/)
 - 台灣非二元酷兒浪子: [{{ icons.facebook }}](https://www.facebook.com/TaiwanNonbinary/)
 - 社團法人台灣基地協會: [{{ icons.link }}](https://www.gdi.org.tw/) [{{ icons.facebook }}](https://www.facebook.com/TaichungGDi/)
+- 高雄同志大遊行: [{{ icons.facebook }}](https://www.facebook.com/KaohsiungPRIDE/)
 - GisneyLand 風城部屋: [{{ icons.link }}](http://www.gisneyland.org/) [{{ icons.facebook }}](https://www.facebook.com/GisneyLandHSC/)
 - GisneyLand 諸羅部屋: [{{ icons.facebook }}](https://www.facebook.com/GisneyLandChiaYi/)
 - GisneyLand 紅樓部屋: [{{ icons.facebook }}](https://www.facebook.com/GisneyLand.Redhouse/)

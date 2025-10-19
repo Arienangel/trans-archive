@@ -103,9 +103,6 @@
 - 第二人生-1 (Suporn診所手術記實): [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/243075762)
     - 第二人生-2 (Suporn診所手術記實): [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/243076071)
 
-### Pratunam polyclinic { #srs-pratunam }
-- 2025/07: [{{ icons.telegram }}](https://t.me/+U6DIoZBihARlYzVl)
-
 ### 胡瀞暄 { #srs-ChingHsuanHU }
 - 2023/06 長庚SRS後四週半身體狀況: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/243346277)
 - 2024/06 林口長庚性別重置手術術前術後指南: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/256022377)
@@ -126,7 +123,7 @@
 - 陳柏諺醫師跨性別手術札記 性別重置手術: [{{ icons.link }}](https://chenpoyen.com/)
 - SRS術後七周: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/259427214)
 
-### 其他
+### 其他 { #srs-other }
 - 台北榮總SRS手術分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/257365690)
 - MTF性別重置手術 記錄: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/239711431)
 - 台中平胸手術分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/258719970)

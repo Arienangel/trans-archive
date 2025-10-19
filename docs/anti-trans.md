@@ -2,6 +2,7 @@
 - Plurk search: [{{ icons.plurk }}](https://www.plurk.com/search?q=%E8%B7%A8%E6%80%A7)
 - No Self ID Taiwan 反對自我宣稱性別: [{{ icons.link }}](https://noselfidtw.cc/) [{{ icons.archive }}](https://web.archive.org/web/20250715085757/https://noselfidtw.cc/)
 - 性別不是你說了算: [{{ icons.facebook }}](https://www.facebook.com/noselfIDtw)
+- 反對免術換證，反對任何替代方案生理男跨性別取代生理女性: [{{ icons.facebook }}](www.facebook.com/profile/100087798510446)
 - 迷因 (ミーム): 反對口頭變性: [{{ icons.twitter }}](https://x.com/memetranspolicy)
 - 默默「換」走台灣女性的安全空間：不知情下推動的免術換證 (柚子旅人): [{{ icons.link }}](https://pomeloswarehouse.blogspot.com/2021/11/blog-post.html) [{{ icons.archive }}](https://web.archive.org/web/20220219162643/https://pomeloswarehouse.blogspot.com/2021/11/blog-post.html)
 - 只為特定團體喉舌的世新性別變更法制化研究案 (柚子旅人): [{{ icons.link }}](https://pomeloswarehouse.blogspot.com/2022/03/blog-post.html) [{{ icons.archive }}](https://web.archive.org/web/20231125082347/https://pomeloswarehouse.blogspot.com/2022/03/blog-post.html)

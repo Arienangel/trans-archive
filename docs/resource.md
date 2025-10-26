@@ -18,6 +18,7 @@
 - Genderfluent: [{{ icons.link }}](https://app.genderfluentapp.com/)
 - Voice Tools (Alpha): [{{ icons.link }}](https://voice.hydev.org/)
 - saina.chat: [{{ icons.link }}](https://saina.chat/)
+- Voice Presentation Analyzer: [{{ icons.link }}](https://shusei.github.io/vpa/)
 - Spectroid: [{{ icons.googleplay }}](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum)
 - Voice Tools: [{{ icons.googleplay }}](https://play.google.com/store/apps/details?id=com.DevExtras.VoiceTools)
 - Voice Pitch Analyzer: [{{ icons.googleplay }}](https://apkpure.com/voice-pitch-analyzer/de.lilithwittmann.voicepitchanalyzer)

@@ -1,5 +1,7 @@
 site_name: 跨性別檔案館
 site_url: !ENV [site_url, '']
+repo_url: !ENV [repo_url, '']
+edit_uri: !ENV [edit_uri, '']
 nav:
   - 網站: website.md
   - 社群: community.md
@@ -15,6 +17,8 @@ theme:
     - toc.follow
     - search.suggest
     - search.highlight
+    - content.action.edit
+    - content.action.view
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -33,6 +37,9 @@ theme:
   font: false
   icon:
     logo: material/archive-arrow-down-outline
+    repo: fontawesome/brands/github 
+    edit: material/pencil
+    view: material/eye
   custom_dir: overrides
 plugins:
   - macros:

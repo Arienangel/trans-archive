@@ -1,17 +1,19 @@
 # 反跨
+
 - Plurk search: [{{ icons.plurk }}](https://www.plurk.com/search?q=%E8%B7%A8%E6%80%A7)
 - No Self ID Taiwan 反對自我宣稱性別: [{{ icons.link }}](https://noselfidtw.cc) [{{ icons.plurk }}](https://www.plurk.com/y_luren) [{{ icons.facebook }}](https://www.facebook.com/noselfidtwcc) [{{ icons.threads }}](https://www.threads.com/@noselfidtw) [{{ icons.twitter }}](https://x.com/NoSelfID_tw)
 - 臺灣LGB聯盟: [{{ icons.link }}](https://www.lgballiance.tw) [{{ icons.plurk }}](https://www.plurk.com/lgballiance_TW) [{{ icons.facebook }}](https://www.facebook.com/lgballianceTW/) [{{ icons.threads }}](https://www.threads.com/@lgballiancetw) [{{ icons.twitter }}](https://x.com/lgballiance_TW/)
 - 臺灣女性協會: [{{ icons.link }}](https://twa.ngo) [{{ icons.plurk }}](https://www.plurk.com/TWAofficial) [{{ icons.facebook }}](https://www.facebook.com/profile/61575118713480/)
+- 台聯黨: [{{ icons.link }}](https://www.tsu.org.tw) [{{ icons.plurk }}](https://www.plurk.com/TSUTaiwan) [{{ icons.facebook }}](https://www.facebook.com/tsu.org)
 - 性別不是你說了算: [{{ icons.facebook }}](https://www.facebook.com/noselfIDtw)
 - 反對免術換證，反對任何替代方案生理男跨性別取代生理女性: [{{ icons.facebook }}](https://www.facebook.com/profile/100087798510446)
-- 迷因 (ミーム): 反對口頭變性: [{{ icons.twitter }}](https://x.com/memetranspolicy)
-- 默默「換」走台灣女性的安全空間：不知情下推動的免術換證 (柚子旅人): [{{ icons.link }}](https://pomeloswarehouse.blogspot.com/2021/11/blog-post.html) [{{ icons.archive }}](https://web.archive.org/web/20220219162643/https://pomeloswarehouse.blogspot.com/2021/11/blog-post.html)
-- 只為特定團體喉舌的世新性別變更法制化研究案 (柚子旅人): [{{ icons.link }}](https://pomeloswarehouse.blogspot.com/2022/03/blog-post.html) [{{ icons.archive }}](https://web.archive.org/web/20231125082347/https://pomeloswarehouse.blogspot.com/2022/03/blog-post.html)
-- 嘴巴說沒有身體倒是挺誠實的嘛：整理現時各政黨對於免術換證相關政策的態度 (柚子旅人): [{{ icons.link }}](https://pomeloswarehouse.blogspot.com/2023/09/blog-post.html) [{{ icons.archive }}](https://web.archive.org/web/20231111220317/https://pomeloswarehouse.blogspot.com/2023/09/blog-post.html)
-- 論IOC贊助的跨性別者運動研究與運動333的不同 (柚子旅人): [{{ icons.link }}](https://pomeloswarehouse.blogspot.com/2024/08/ioc333.html) [{{ icons.archive }}](https://web.archive.org/web/20240913081130/https://pomeloswarehouse.blogspot.com/2024/08/ioc333.html)
+- 迷因 (ミーム): 反對口頭變性: [{{ icons.plurk }}](https://www.plurk.com/memetranspolicy) [{{ icons.twitter }}](https://x.com/memetranspolicy)
+
+## 公共政策網路參與平臺 { #join-gov-tw }
 - 暫緩實施「不需摘除生殖器官即可變更法定性別」之所有措施及政策方向 (Onsdag): [{{ icons.link }}](https://join.gov.tw/idea/detail/14cb42cb-688b-4331-ac1c-f152c6ef16f7)
 - 合理性別區隔以保護婦女、孩童安全及建議部分措施減輕跨性別無手術換證後所產生問題 (曼陀羅): [{{ icons.link }}](https://join.gov.tw/idea/detail/315aeade-80b5-4d46-9ba7-a04924268d9a)
+
+## Google drive { #gdrive }
 - 反對免術換證，保障婦幼生命及生活安全 (澐曦{{ icons.email }}surname.chikamui@gmail.com): [{{ icons.googledrive }}](https://drive.google.com/drive/folders/1oRqpqOOOpBSlqOT9h_Dh-7Vn3tWqPBWi)
 - 跨性別免術換證相關政策陳情書 (No Self ID Taiwan{{ icons.email }}noselfid.tw@gmail.com): [{{ icons.googledrive }}](https://drive.google.com/file/d/1T6jQZJcXZG-fnzcx3d4NnKLuaF0JDNlx/view)
 - 致行政機關_跨性別免術換證相關政策陳情書 (No Self ID Taiwan{{ icons.email }}noselfid.tw@gmail.com): [{{ icons.googledrive }}](https://drive.google.com/file/d/1BJvwGLny3p9B3fskPkWVGptGvIBjDUp3/view)
@@ -33,3 +35,9 @@
 - 公開資料區 (台聯社運部{{ icons.email }}tsu.tw.win@gmail.com): [{{ icons.googledrive }}](https://drive.google.com/drive/folders/1HwTiXDX3S0FQiEeMIgf-yClL39IJZ_B1)
 - 台聯 (YiLun Tsai{{ icons.email }}dorisgamessr@gmail.com): [{{ icons.googledrive }}](https://drive.google.com/drive/folders/15On1xYygBuj4wQBKd1aKN4S-sKs4xhRb)
 - 投遞傳單 (路人{{ icons.email }}ivan24118e@gmail.com): [{{ icons.googledrive }}](https://drive.google.com/file/d/14IuKdWwrmDQw4fvnCWzlAqP6zDJ1h6oT/view)
+
+## 其他 { #other }
+- 默默「換」走台灣女性的安全空間：不知情下推動的免術換證 (柚子旅人): [{{ icons.link }}](https://pomeloswarehouse.blogspot.com/2021/11/blog-post.html) [{{ icons.archive }}](https://web.archive.org/web/20220219162643/https://pomeloswarehouse.blogspot.com/2021/11/blog-post.html)
+- 只為特定團體喉舌的世新性別變更法制化研究案 (柚子旅人): [{{ icons.link }}](https://pomeloswarehouse.blogspot.com/2022/03/blog-post.html) [{{ icons.archive }}](https://web.archive.org/web/20231125082347/https://pomeloswarehouse.blogspot.com/2022/03/blog-post.html)
+- 嘴巴說沒有身體倒是挺誠實的嘛：整理現時各政黨對於免術換證相關政策的態度 (柚子旅人): [{{ icons.link }}](https://pomeloswarehouse.blogspot.com/2023/09/blog-post.html) [{{ icons.archive }}](https://web.archive.org/web/20231111220317/https://pomeloswarehouse.blogspot.com/2023/09/blog-post.html)
+- 論IOC贊助的跨性別者運動研究與運動333的不同 (柚子旅人): [{{ icons.link }}](https://pomeloswarehouse.blogspot.com/2024/08/ioc333.html) [{{ icons.archive }}](https://web.archive.org/web/20240913081130/https://pomeloswarehouse.blogspot.com/2024/08/ioc333.html)

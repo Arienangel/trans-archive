@@ -76,6 +76,7 @@ extra:
     facebook: ":fontawesome-brands-facebook:{ .facebook }"
     reddit: ":fontawesome-brands-reddit:{ .reddit }"
     telegram: ":fontawesome-brands-telegram:{ .telegram }"
+    threads: ":fontawesome-brands-threads:{ .threads }"
     twitter: ":fontawesome-brands-twitter:{ .twitter }"
     googleplay: ":fontawesome-brands-google-play:{ .googleplay }"
     googledrive: ":fontawesome-brands-google-drive:{ .googledrive }"

@@ -4,22 +4,24 @@
 - 台灣跨性別協會: [{{ icons.link }}](https://line.me/ti/g2/KCJIeuoy246Be-G4L6jZuJ2LMCU0OmhKQ963gQ)
 - 嬲 跨性別隨意聊 嫐: [{{ icons.link }}](https://line.me/ti/g2/oUOfIcMTVa84-63VxbPkaJXhV4Jq7EFdkjP1iQ)
 - 跨性別友善交流群: [{{ icons.link }}](https://line.me/ti/g2/XuAPKJa_i8BBOsXVOABEY2teaPTw6iRBiGOjog)
-- 一群發瘋的女人: [{{ icons.link }}](https://line.me/ti/g2/YfLfbQBxLou-lVa27nX7Xq_mNeeKFw60b4HfzA)
-- 非二元性別/性別酷兒/無性戀(etc)交流群（Nonbinary/AceAro）: [{{ icons.link }}](https://line.me/ti/g2/lZzvHQenXq_S5HId0_rYFrDt1Pioq-w3BuWMbw)
+- 一群發瘋的女人 (MTF之家): [{{ icons.link }}](https://line.me/ti/g2/YfLfbQBxLou-lVa27nX7Xq_mNeeKFw60b4HfzA)
+- LES&Trans&Ace大家庭: [{{ icons.link }}](https://line.me/ti/g2/PMmsDEfFIY8HoUQMAIvHgA)
+- 風城跨聚會🏳️‍⚧️: [{{ icons.link }}](https://line.me/ti/g2/oMLx31ToabGTrLwZ4MTqcVYIe36giU7tKRKXog)
+- 偽聲交流群: [{{ icons.link }}](https://line.me/ti/g2/VCGmLsjG1zmu9gjSNgc9ew)
 - CD TS 姐妹們站起來 心情聊天室: [{{ icons.link }}](https://line.me/ti/g2/nHCDvdoDaY23-5SJdx3nig)
 - 'TS.CD.三性國際交流協會(㍿)'🏳️‍⚧: [{{ icons.link }}](https://line.me/ti/g2/jO56May_Ew-An4KzergdfQ)
 
 ## {{ icons.dcard }} Dcard { #dcard }
-- 跨性別: [{{ icons.link }}](https://www.dcard.tw/f/trans/)
+- 跨性別: [{{ icons.link }}](https://www.dcard.tw/f/trans)
 - 偽娘: [{{ icons.link }}](https://www.dcard.tw/f/otokonoko)
 
 ## {{ icons.ptt }} PTT { #ptt }
-- transgender: [{{ icons.link }}](https://www.ptt.cc/bbs/transgender/)
+- transgender: [{{ icons.link }}看板](https://www.ptt.cc/bbs/transgender/index.html) [{{ icons.link }}精華區](https://www.ptt.cc/man/transgender/index.html)
 
 ## {{ icons.facebook }} Facebook { #facebook }
 - 台灣跨性別社團: [{{ icons.link }}](https://www.facebook.com/groups/taiwantransgender)
-- 台灣跨性別共融之家: [{{ icons.link }}](https://www.facebook.com/groups/945173803593462/)
-- 多元性別🌈圖書館: [{{ icons.link }}](https://www.facebook.com/groups/185580525638320/)
+- 台灣跨性別共融之家: [{{ icons.link }}](https://www.facebook.com/groups/945173803593462)
+- 多元性別🌈圖書館: [{{ icons.link }}](https://www.facebook.com/groups/185580525638320)
 - 台灣非二元性別支持社群 Taiwan Nonbinary Support: [{{ icons.link }}](https://www.facebook.com/groups/1008074439681831)
 
 ## {{ icons.telegram }} Telegram { #telegram }

@@ -36,6 +36,10 @@ span.twemoji.telegram {
     color: #24a1dd;
 }
 
+span.twemoji.threads {
+    color: #ffffff;
+}
+
 span.twemoji.twitter {
     color: #00a3f6;
 }

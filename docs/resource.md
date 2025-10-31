@@ -39,6 +39,7 @@
 - 18歲就確定好自己要當男生！施打HRT激素替代療法7個月的心得（睪固酮）: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/256073954)
 - 跨女HRT經驗分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/240811350)
 - 醋酸環丙孕酮(安得卡)相關研究: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/239404319)
+- FTM渠道大全: [{{ icons.telegram }}](https://t.me/ftmcomm)
 - Information on Estrogen Hormone Therapy: [{{ icons.link }}](https://transcare.ucsf.edu/article/information-estrogen-hormone-therapy)
 - Information on Testosterone Hormone Therapy: [{{ icons.link }}](https://transcare.ucsf.edu/article/information-testosterone-hormone-therapy)
 

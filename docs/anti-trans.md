@@ -1,5 +1,6 @@
 # 反跨
 
+## 網站 { #website }
 - Plurk search: [{{ icons.plurk }}](https://www.plurk.com/search?q=%E8%B7%A8%E6%80%A7)
 - No Self ID Taiwan 反對自我宣稱性別: [{{ icons.link }}](https://noselfidtw.cc) [{{ icons.plurk }}](https://www.plurk.com/y_luren) [{{ icons.facebook }}](https://www.facebook.com/noselfidtwcc) [{{ icons.threads }}](https://www.threads.com/@noselfidtw) [{{ icons.twitter }}](https://x.com/NoSelfID_tw)
 - 臺灣LGB聯盟: [{{ icons.link }}](https://www.lgballiance.tw) [{{ icons.plurk }}](https://www.plurk.com/lgballiance_TW) [{{ icons.facebook }}](https://www.facebook.com/lgballianceTW/) [{{ icons.threads }}](https://www.threads.com/@lgballiancetw) [{{ icons.twitter }}](https://x.com/lgballiance_TW/)
@@ -8,10 +9,6 @@
 - 性別不是你說了算: [{{ icons.facebook }}](https://www.facebook.com/noselfIDtw)
 - 反對免術換證，反對任何替代方案生理男跨性別取代生理女性: [{{ icons.facebook }}](https://www.facebook.com/profile/100087798510446)
 - 迷因 (ミーム): 反對口頭變性: [{{ icons.plurk }}](https://www.plurk.com/memetranspolicy) [{{ icons.twitter }}](https://x.com/memetranspolicy)
-
-## 公共政策網路參與平臺 { #join-gov-tw }
-- 暫緩實施「不需摘除生殖器官即可變更法定性別」之所有措施及政策方向 (Onsdag): [{{ icons.link }}](https://join.gov.tw/idea/detail/14cb42cb-688b-4331-ac1c-f152c6ef16f7)
-- 合理性別區隔以保護婦女、孩童安全及建議部分措施減輕跨性別無手術換證後所產生問題 (曼陀羅): [{{ icons.link }}](https://join.gov.tw/idea/detail/315aeade-80b5-4d46-9ba7-a04924268d9a)
 
 ## Google drive { #gdrive }
 - 反對免術換證，保障婦幼生命及生活安全 (澐曦{{ icons.email }}surname.chikamui@gmail.com): [{{ icons.googledrive }}](https://drive.google.com/drive/folders/1oRqpqOOOpBSlqOT9h_Dh-7Vn3tWqPBWi)
@@ -35,6 +32,10 @@
 - 公開資料區 (台聯社運部{{ icons.email }}tsu.tw.win@gmail.com): [{{ icons.googledrive }}](https://drive.google.com/drive/folders/1HwTiXDX3S0FQiEeMIgf-yClL39IJZ_B1)
 - 台聯 (YiLun Tsai{{ icons.email }}dorisgamessr@gmail.com): [{{ icons.googledrive }}](https://drive.google.com/drive/folders/15On1xYygBuj4wQBKd1aKN4S-sKs4xhRb)
 - 投遞傳單 (路人{{ icons.email }}ivan24118e@gmail.com): [{{ icons.googledrive }}](https://drive.google.com/file/d/14IuKdWwrmDQw4fvnCWzlAqP6zDJ1h6oT/view)
+
+## 公共政策網路參與平臺 { #join-gov-tw }
+- 暫緩實施「不需摘除生殖器官即可變更法定性別」之所有措施及政策方向 (Onsdag): [{{ icons.link }}](https://join.gov.tw/idea/detail/14cb42cb-688b-4331-ac1c-f152c6ef16f7)
+- 合理性別區隔以保護婦女、孩童安全及建議部分措施減輕跨性別無手術換證後所產生問題 (曼陀羅): [{{ icons.link }}](https://join.gov.tw/idea/detail/315aeade-80b5-4d46-9ba7-a04924268d9a)
 
 ## 其他 { #other }
 - 默默「換」走台灣女性的安全空間：不知情下推動的免術換證 (柚子旅人): [{{ icons.link }}](https://pomeloswarehouse.blogspot.com/2021/11/blog-post.html) [{{ icons.archive }}](https://web.archive.org/web/20220219162643/https://pomeloswarehouse.blogspot.com/2021/11/blog-post.html)

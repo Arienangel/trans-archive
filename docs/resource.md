@@ -23,7 +23,7 @@
 - Voice Tools: [{{ icons.googleplay }}](https://play.google.com/store/apps/details?id=com.DevExtras.VoiceTools)
 - Voice Pitch Analyzer: [{{ icons.googleplay }}](https://apkpure.com/voice-pitch-analyzer/de.lilithwittmann.voicepitchanalyzer)
 
-## 精神科看診 { #gd }
+## 精神科/兵役 { #gd }
 - 《分享》台大醫院開立 GID 流程: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/237079644)
 - 兵役體檢詢問（更新實際流程）: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/238655006)
 - 分享關於替代役備役申請免役流程: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/258109946)

@@ -4,9 +4,10 @@ hide:
 ---
 
 <style>
-    div.grid.cards li {
-        font-size: 1rem;
-    }
+  div.grid.cards li {
+    font-weight: 300;
+    font-size: 1.2em;
+  }
 </style>
 
 # 跨性別檔案館
@@ -29,6 +30,7 @@ hide:
 <div class="grid cards" markdown>
 - [醫療資源清單](./resource.md#doctor)
 - [RLE/Voice](./resource.md#rle)
+- [精神科/兵役](./resource.md#gd)
 - [HRT](./resource.md#hrt)
 - [SRS](./resource.md#srs)
 </div>

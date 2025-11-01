@@ -35,3 +35,7 @@ font.unknown {
 table tbody tr:nth-child(odd) {
     background-color: light-dark(#EBEBEB, #14171F);
 }
+
+div.grid.cards li {
+    background-color: light-dark(#EBEBEB, #14171F);
+}

@@ -1,6 +1,6 @@
-# 文件
+# :material-file-document: 文件
 
-## 文章/公文 { #article }
+## :material-file-document-edit: 文章/公文 { #article }
 - 內授中戶字第0970066240號: [{{ icons.link }}](https://gazette.nat.gov.tw/egFront/detail.do?metaid=27169)
 - LGBT資訊專區-性別變更: [{{ icons.link }}](https://lgbt.gov.taipei/cp.aspx?n=7141B7FAB560582E)
 - 未成年雙性人之醫療矯正手術共同性建議原則(2018衛服部): [{{ icons.link }}](https://dep.mohw.gov.tw/doma/cp-2708-45096-106.html)
@@ -9,7 +9,7 @@
 - Post-Election 2024 Anti-Trans Risk Assessment Map: [{{ icons.link }}](https://www.erininthemorning.com/p/post-election-2024-anti-trans-risk)
 - US Transgender Passport FAQ (2025): [{{ icons.reddit }}](https://www.reddit.com/r/Passports/comments/1iga2wj/us_transgender_passport_faq/) [{{ icons.googledrive }}](https://docs.google.com/document/d/1q0UjQk-OABTdzUNokBdNToylktYsyGJd1GI5XvyyYcY/view)
 
-## 書籍/手冊 { #book }
+## :octicons-book-16: 書籍/手冊 { #book }
 - SOC8: [{{ icons.link }}](https://wpath.org/publications/soc8/)
 - 性別不安手冊(2015衛服部): [{{ icons.link }}](https://health99.hpa.gov.tw/material/3245)
 - 多元性別權益保障種子訓練教材(2020行政院性平會): [{{ icons.link }}](https://gec.ey.gov.tw/Page/8B53584DC50F0FBA/54ea414c-a60e-4916-8af3-24d276dae0d6)
@@ -17,7 +17,7 @@
 - 跨性別醫療手冊(2024台灣同志諮詢熱線協會): [{{ icons.link }}](https://hotline.org.tw/pagegeneral/3244) [{{ icons.googledrive }}](https://drive.google.com/file/d/1YNMPDAfcTzreAp18hKWiJfsvJgbkDvXp/view)
 - 药娘的天空-想要变成鹰的鱼: [{{ icons.link }}](https://transky.mtf.wiki/) [{{ icons.git }}](https://github.com/trans-archive/transky)
 
-## 研究報告 { #report }
+## :material-magnify: 研究報告 { #report }
 - 各國跨性別登記制度(2013委託逢甲大學): [{{ icons.link }}](https://gec.ey.gov.tw/Page/89D22259C32BB1A1)
 - 原發性變性慾症患者精神狀態臨床特徵及追蹤研究(2014臺北榮民總醫院精神病部): [{{ icons.file }}](https://taiwan-gist.nknu.edu.tw/images/2.%20nstc%20gender%20and%20technology%20project%20reports/101/101-22.pdf)
 - 台灣同志(LGBTQ+)學生校園經驗調查報告(2020台灣同志諮詢熱線協會): [{{ icons.link }}](https://hotline.org.tw/news/3166)
@@ -30,7 +30,7 @@
 - 台灣非二元社群問卷調查結果報告(2023): [{{ icons.googledrive }}](https://docs.google.com/document/d/1eC_J0AJh_LD0h1OtqfdhoRP9Wdj4L5SpfdAAVvvkL4Q/view)
 - ILGA World's Trans Legal Mapping Report (2019): [{{ icons.link }}](https://ilga.org/trans-legal-mapping-report/)
 
-## 裁判書 { #judgment }
+## :fontawesome-solid-scale-balanced: 裁判書 { #judgment }
 - 2021/09/23 臺北高等行政法院 109 年度訴字第 275 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,109%2c%e8%a8%b4%2c275%2c20210923%2c1)
 - 2024/05/30 臺北高等行政法院 高等庭 111 年度訴字第 1469 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,111%2c%e8%a8%b4%2c1469%2c20240530%2c2)
 - 2024/07/11 臺北高等行政法院 高等庭 111 年度訴字第 236 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,111%2c%e8%a8%b4%2c236%2c20240711%2c2)
@@ -43,9 +43,9 @@
 - 2024/09/25 高雄高等行政法院 高等庭 113 年度訴字第 155 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=KSBA,113%2c%e8%a8%b4%2c155%2c20240925%2c2)
 - 2025/06/19 臺北高等行政法院 高等庭 113 年度訴字第 1213 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,113%2c%e8%a8%b4%2c1213%2c20250619%2c2)
 
-## 影音 { #media }
+## :octicons-file-media-16: 影音 { #media }
 - The Gender Unicorn: [{{ icons.link }}](https://transstudent.org/gender/)
 - The Genderbread Person: [{{ icons.link }}](https://www.itspronouncedmetrosexual.com/2018/10/the-genderbread-person-v4/) [{{ icons.link }}](https://www.samkillermann.com/work/genderbread-person/)
 - Beyond XX and XY: The Extraordinary Complexity of Sex Determination: [{{ icons.link }}](https://www.scientificamerican.com/article/beyond-xx-and-xy-the-extraordinary-complexity-of-sex-determination/)
 
-## 反跨 [{{ icons.link }}](./anti-trans.md) { #anti-trans }
+## :exclamation: 反跨 [{{ icons.link }}](./anti-trans.md) { #anti-trans }

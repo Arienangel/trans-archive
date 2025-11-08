@@ -19,7 +19,8 @@
 - transgender: [{{ icons.link }}看板](https://www.ptt.cc/bbs/transgender/index.html) [{{ icons.link }}精華區](https://www.ptt.cc/man/transgender/index.html)
 
 ## {{ icons.facebook }} Facebook { #facebook }
-- 台灣跨性別社團: [{{ icons.link }}](https://www.facebook.com/groups/taiwantransgender)
+- 熱線跨性別小站: [{{ icons.link }}](https://www.facebook.com/groups/468518206672039)
+- 台灣跨性別社團: [{{ icons.link }}](https://www.facebook.com /groups/taiwantransgender)
 - 台灣跨性別共融之家: [{{ icons.link }}](https://www.facebook.com/groups/945173803593462)
 - 多元性別🌈圖書館: [{{ icons.link }}](https://www.facebook.com/groups/185580525638320)
 - 台灣非二元性別支持社群 Taiwan Nonbinary Support: [{{ icons.link }}](https://www.facebook.com/groups/1008074439681831)

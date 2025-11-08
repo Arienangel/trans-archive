@@ -36,6 +36,7 @@
 - 成为女孩子的声音！: [{{ icons.link }}](https://vocal.mtf.wiki/) [{{ icons.git }}](https://github.com/trans-archive/jyosei-guide)
 - 女性倾向跨性别者科学: [{{ icons.link }}](https://tfsci.mtf.wiki/) [{{ icons.git }}](https://github.com/project-trans/transfeminine-science/)
 - 性別自決法與跨性別議題資訊: [{{ icons.link }}](https://selfid.tw/)
+- 跨性別相關措施及服務方案: [{{ icons.link }}](https://www.oge.gov.taipei/cp.aspx?n=08C9C667AEC74C9D)
 - transgender.taipei: [{{ icons.archive }}](https://web.archive.org/web/20250319234514/https://transgender.taipei/)
 - Susan's Place Transgender Resources: [{{ icons.link }}](https://www.susans.org/) [{{ icons.archive }}](https://web.archive.org/web/20231219125633/https://www.susans.org/wiki/Main_Page)
 - Nonbinary Wiki: [{{ icons.link }}](https://nonbinary.wiki/)

@@ -42,10 +42,12 @@
 	- 2023/02/10 112年憲裁字第4號: [{{ icons.link }}](https://cons.judicial.gov.tw/docdata.aspx?fid=40&id=346698)
 - 2024/09/25 高雄高等行政法院 高等庭 113 年度訴字第 155 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=KSBA,113%2c%e8%a8%b4%2c155%2c20240925%2c2)
 - 2025/06/19 臺北高等行政法院 高等庭 113 年度訴字第 1213 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,113%2c%e8%a8%b4%2c1213%2c20250619%2c2)
+- 2025/11/06 臺北高等行政法院 高等庭 114 年度訴字第 404 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,114%2c%e8%a8%b4%2c404%2c20251106%2c2)
 
 ## :octicons-file-media-16: 影音 { #media }
 - The Gender Unicorn: [{{ icons.link }}](https://transstudent.org/gender/)
 - The Genderbread Person: [{{ icons.link }}](https://www.itspronouncedmetrosexual.com/2018/10/the-genderbread-person-v4/) [{{ icons.link }}](https://www.samkillermann.com/work/genderbread-person/)
 - Beyond XX and XY: The Extraordinary Complexity of Sex Determination: [{{ icons.link }}](https://www.scientificamerican.com/article/beyond-xx-and-xy-the-extraordinary-complexity-of-sex-determination/)
+- 揭秘：台灣反跨運動領袖 (1) 國內反跨大將: [{{ icons.youtube }}](https://www.youtube.com/watch?v=b--j6bhYKpE)
 
 ## :exclamation: 反跨 [{{ icons.link }}](./anti-trans.md) { #anti-trans }

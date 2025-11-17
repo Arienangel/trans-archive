@@ -15,6 +15,9 @@
 - 服飾鞋子商家相關表單: [{{ icons.googledrive }}](https://docs.google.com/spreadsheets/d/19ab1-eOeMH0scveo6WcyHMPzvMU-MZvWBSA03pVV0U4/view)
 - TransVoice Wiki: [{{ icons.link }}中文版](https://transvoice-wiki.pages.dev/) [{{ icons.link }}英文版](https://wiki.sumianvoice.com/)
 - Voice Lab! 新手包: [{{ icons.telegram }}](https://t.me/+m0rXsTRbH4A1MWJl) [{{ icons.git }}](https://github.com/awesometrans/archive/blob/main/%E5%A3%B0%E9%9F%B3/Voice%20Lab!%20%E6%96%B0%E6%89%8B%E5%8C%85)
+- 關於嗓音訓練，可以有與不該有的期待: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/242673921)
+- 跨性別嗓音治療心得#振興醫院: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/252928378)
+- 嗓音治療神秘之旅: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/241975313) [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/242280795)
 - Genderfluent: [{{ icons.link }}](https://app.genderfluentapp.com/)
 - saina.chat: [{{ icons.link }}](https://saina.chat/)
 - Voice Presentation Analyzer: [{{ icons.link }}](https://shusei.github.io/vpa/)
@@ -25,9 +28,14 @@
 
 ## 精神科/兵役 { #gd }
 - 《分享》台大醫院開立 GID 流程: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/237079644)
+- 取得兩張GID證明經驗分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/240779053)
 - 兵役體檢詢問（更新實際流程）: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/238655006)
 - 分享關於替代役備役申請免役流程: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/258109946)
 - 兵役複檢流程心得: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/253656631)
+- 兵役體檢流程(2025): [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/259541131)
+- MTF 重置手術過程 術前HRT兵役篇: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/240809367)
+- 804 看診後心理衡鑑（心測）: [{{ icons.ptt }}](https://www.ptt.cc/bbs/transgender/M.1671781881.A.F92.html)
+- [心得] 戶籍變更分享: [{{ icons.ptt }}](https://www.ptt.cc/bbs/transgender/M.1668861771.A.7F5.html)
 
 ## HRT { #hrt }
 - 荷爾蒙治療-MTF(劉妙真): [{{ icons.file }}](https://sex.ncu.edu.tw/intermargins/repression/deviant/transgender/tgpamphlet/2004Jan-Jun/hormones-MtF.pdf)
@@ -39,6 +47,7 @@
 - 18歲就確定好自己要當男生！施打HRT激素替代療法7個月的心得（睪固酮）: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/256073954)
 - 跨女HRT經驗分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/240811350)
 - 醋酸環丙孕酮(安得卡)相關研究: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/239404319)
+- [心得] 一些HRT基本知識追記(MtF): [{{ icons.ptt }}](https://www.ptt.cc/bbs/transgender/M.1657360766.A.B75.html) [{{ icons.ptt }}](https://www.ptt.cc/bbs/transgender/M.1674202940.A.E9D.html)
 - FTM渠道大全: [{{ icons.telegram }}](https://t.me/ftmcomm)
 - Information on Estrogen Hormone Therapy: [{{ icons.link }}](https://transcare.ucsf.edu/article/information-estrogen-hormone-therapy)
 - Information on Testosterone Hormone Therapy: [{{ icons.link }}](https://transcare.ucsf.edu/article/information-testosterone-hormone-therapy)
@@ -120,6 +129,7 @@
 - FTM Sexual reassignment surgery: [{{ icons.youtube }}](https://www.youtube.com/watch?v=8mIZLJIUqNw)
 - chest wall contouring surgery: [{{ icons.youtube }}](https://www.youtube.com/watch?v=hmEJyWzMDG8)
 - 臺灣SRS 2023手術分享與過程紀錄: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/252950778)
+- [心得] SRS住院中，簡單的記錄一下: [{{ icons.ptt }}](https://www.ptt.cc/bbs/transgender/M.1661494825.A.373.html)
 
 ### 陳柏諺 { #srs-PoYenChen }
 - 陳柏諺醫師跨性別手術札記 性別重置手術: [{{ icons.link }}](https://chenpoyen.com/)
@@ -128,7 +138,13 @@
 ### 其他 { #srs-other }
 - 台北榮總SRS手術分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/257365690)
 - MTF性別重置手術 記錄: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/239711431)
-- 台中平胸手術分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/258719970)
-- 住院前的準備清單-摘除手術: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/242487733)
 - SRS - Sex Reassignment Surgery (Chalterra): [{{ icons.archive }}](https://web.archive.org/web/20150510204732/http://ameblo.jp:80/chalterra77/entry-11948268399.html)
+- [閒聊] MTF SRS術後心情閒聊、FFS諮詢心得: [{{ icons.ptt }}](https://www.ptt.cc/bbs/transgender/M.1651001522.A.E38.html)
 - <font class="unknown">纽约免费SRS-0深度:</font> [{{ icons.telegram }}](https://t.me/NewYorkFreeSRS)
+- FTM手術心得: [{{ icons.ptt }}](https://www.ptt.cc/bbs/transgender/M.1667722916.A.E99.html)
+- 住院前的準備清單-摘除手術: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/242487733)
+- My Top Surgery Experience: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/241450350)
+- 台中平胸手術分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/258719970)
+- 在泰國完成TOP SURGERY: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/241779600)
+- 平胸手術分享: [{{ icons.dcard }}](https://www.dcard.tw/f/rainbow/p/228580726) [{{ icons.dcard }}](https://www.dcard.tw/f/rainbow/p/228618066) [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/245313471)
+- ftm平胸手術相關求助: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/254184903)

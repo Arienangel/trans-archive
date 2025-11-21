@@ -42,7 +42,7 @@
 - 跨性別女性化賀爾蒙療法(施秉庚): [{{ icons.link }}](https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=6907)
 - 女性化賀爾蒙治療HRT基礎知識(不明小站): [{{ icons.file }}](./assets/documents/女性化賀爾蒙治療HRT基礎知識(不明小站).md)
 - 跨男的賀爾蒙置換療法（HRT）實用入門手冊: [{{ icons.link }}](https://trans-attaboy.com/hrt-guidebook/)
-- MtF GAHT 资料: [{{ icons.link }}](https://docs.hrt.guide/)
+- MtF HRT 资料: [{{ icons.link }}](https://docs.hrt.guide/)
 - 「荷爾蒙的大小事」講座—個人重點筆記分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/235747370)
 - 18歲就確定好自己要當男生！施打HRT激素替代療法7個月的心得（睪固酮）: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/256073954)
 - 跨女HRT經驗分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/240811350)

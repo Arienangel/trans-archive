@@ -18,6 +18,9 @@
 - 台灣性別不明關懷協會: [{{ icons.link }}](https://www.istscare.org/) [{{ icons.facebook }}](https://www.facebook.com/istscareTW/)
 - 台灣性/別不羈充電站 : [{{ icons.facebook }}](https://www.facebook.com/twgendermisfits/)
 - 台灣友善跨性別展望協會 : [{{ icons.facebook }}](https://www.facebook.com/TFT331)
+- Self ID Taiwan 性別自決法與跨性別議題資訊: [{{ icons.link }}](https://selfid.tw/)
+- 臺北市性別平等辦公室 跨性別相關措施及服務方案: [{{ icons.link }}](https://www.oge.gov.taipei/cp.aspx?n=08C9C667AEC74C9D)
+- transgender.taipei: [{{ icons.archive }}](https://web.archive.org/web/20250319234514/https://transgender.taipei/)
 - 跨性別倡議站: [{{ icons.link }}](https://transgenderpunk.wordpress.com/)
 ---
 - 2345.LGBT 跨性别导航: [{{ icons.link }}](https://2345.lgbt/) [{{ icons.git }}](https://github.com/project-trans/2345.LGBT)
@@ -25,19 +28,16 @@
 - MtF Wiki: [{{ icons.link }}](https://mtf.wiki/) [{{ icons.git }}](https://github.com/project-trans/MtF-wiki/)
 - FtM Wiki: [{{ icons.link }}](https://ftm.wiki/) [{{ icons.git }}](https://github.com/project-trans/FtM-wiki/)
 - Gender Dysphoria Bible: [{{ icons.link }}](https://genderdysphoria.fyi/) [{{ icons.git }}](https://github.com/GenderDysphoria/GenderDysphoria.fyi/)
-- Transgender-lost-years: [{{ icons.git }}](https://github.com/KristallWang/Transgender-lost-years)
+- Transgender Lost Years: [{{ icons.git }}](https://github.com/KristallWang/Transgender-lost-years)
 - RLE Wiki: [{{ icons.link }}](https://rle.wiki/) [{{ icons.git }}](https://github.com/project-trans/RLE-wiki/)
-- MtF GAHT 资料: [{{ icons.link }}](https://docs.hrt.guide/) [{{ icons.git }}](https://github.com/BBleae/hrt-book/)
+- MtF HRT 资料: [{{ icons.link }}](https://docs.hrt.guide/) [{{ icons.git }}](https://github.com/BBleae/hrt-book/)
 
-- TransVoice Wiki
+- Trans Voice Wiki
     - 中文: [{{ icons.link }}](https://transvoice-wiki.pages.dev/) [{{ icons.git }}](https://github.com/trans-archive/TransVoice-Wiki/)
     - English: [{{ icons.link }}](https://wiki.sumianvoice.com/) [{{ icons.git }}](https://github.com/trans-archive/TransVoice-Wiki/)
 
 - 成为女孩子的声音！: [{{ icons.link }}](https://vocal.mtf.wiki/) [{{ icons.git }}](https://github.com/trans-archive/jyosei-guide)
 - 女性倾向跨性别者科学: [{{ icons.link }}](https://tfsci.mtf.wiki/) [{{ icons.git }}](https://github.com/project-trans/transfeminine-science/)
-- 性別自決法與跨性別議題資訊: [{{ icons.link }}](https://selfid.tw/)
-- 跨性別相關措施及服務方案: [{{ icons.link }}](https://www.oge.gov.taipei/cp.aspx?n=08C9C667AEC74C9D)
-- transgender.taipei: [{{ icons.archive }}](https://web.archive.org/web/20250319234514/https://transgender.taipei/)
 - Susan's Place Transgender Resources: [{{ icons.link }}](https://www.susans.org/) [{{ icons.archive }}](https://web.archive.org/web/20231219125633/https://www.susans.org/wiki/Main_Page)
 - Nonbinary Wiki: [{{ icons.link }}](https://nonbinary.wiki/)
 - LGBTQIA+ Wiki: [{{ icons.link }}](https://lgbtqia.wiki/)

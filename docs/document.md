@@ -8,6 +8,7 @@
 - 全球性別承認法規一覽: [{{ icons.link }}](https://www.hktranslawdb.org/post/worldwidedb)
 - Post-Election 2024 Anti-Trans Risk Assessment Map: [{{ icons.link }}](https://www.erininthemorning.com/p/post-election-2024-anti-trans-risk)
 - US Transgender Passport FAQ (2025): [{{ icons.reddit }}](https://www.reddit.com/r/Passports/comments/1iga2wj/us_transgender_passport_faq/) [{{ icons.googledrive }}](https://docs.google.com/document/d/1q0UjQk-OABTdzUNokBdNToylktYsyGJd1GI5XvyyYcY/view)
+- TDoR list of names: [{{ icons.link }}](https://tdor.translivesmatter.info/pages/downloads)
 
 ## :octicons-book-16: 書籍/手冊 { #book }
 - SOC8: [{{ icons.link }}](https://wpath.org/publications/soc8/)

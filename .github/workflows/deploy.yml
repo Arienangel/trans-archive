@@ -24,6 +24,7 @@ jobs:
           site_url: ${{ vars.SITE_URL }}
           repo_url: ${{ vars.REPO_URL }}
           edit_uri: ${{ vars.EDIT_URI }}
+          onion_location: ${{ vars.ONION_LOCATION }}
       - uses: actions/upload-pages-artifact@v4.0.0
         with:
           path: site

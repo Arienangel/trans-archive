@@ -9,6 +9,8 @@
 - 賀爾蒙治療醫師(未竟之路): [{{ icons.file }}](./assets/documents/賀爾蒙治療醫師(未竟之路).md)
 - 2022.7 還在開證明、HRT及手術的醫師(PTT): [{{ icons.ptt }}](https://www.ptt.cc/bbs/transgender/M.1323013579.A.C29.html)
 - 臺灣變性評估醫院、醫師與收費情形及荷爾蒙治療項目表: [{{ icons.archive }}](https://web.archive.org/web/20230921230341/http://intermargins.net/repression/deviant/transgender/tgpamphlet/charge.htm)
+- Transmasc文档资源归纳集合: [{{ icons.link }}](https://docs.qq.com/doc/DS2ZTYkRBUHFBTllZ)
+- FTM渠道大全: [{{ icons.telegram }}](https://t.me/ftmcomm)
 
 ## RLE/Voice { #rle }
 - 中大尺碼鞋: [{{ icons.googledrive }}](https://docs.google.com/spreadsheets/d/1v7ulGhciRNmqKfYa1WoX0fj52cQLj8xpZCYBX8Y3iiY/view)
@@ -48,9 +50,9 @@
 - 跨女HRT經驗分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/240811350)
 - 醋酸環丙孕酮(安得卡)相關研究: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/239404319)
 - [心得] 一些HRT基本知識追記(MtF): [{{ icons.ptt }}](https://www.ptt.cc/bbs/transgender/M.1657360766.A.B75.html) [{{ icons.ptt }}](https://www.ptt.cc/bbs/transgender/M.1674202940.A.E9D.html)
-- FTM渠道大全: [{{ icons.telegram }}](https://t.me/ftmcomm)
 - Information on Estrogen Hormone Therapy: [{{ icons.link }}](https://transcare.ucsf.edu/article/information-estrogen-hormone-therapy)
 - Information on Testosterone Hormone Therapy: [{{ icons.link }}](https://transcare.ucsf.edu/article/information-testosterone-hormone-therapy)
+- HRT Introduction (Transgender Wiki): [{{ icons.reddit }}](https://www.reddit.com/r/TransWiki/wiki/hrt/)
 
 ## SRS { #srs }
 - Neovagina Surgery: Types of Vaginoplasty: [{{ icons.link }}](https://www.verywellhealth.com/different-types-of-vaginoplasty-4171503)
@@ -62,6 +64,7 @@
 - 睾丸摘出手術 orchidectomy: [{{ icons.youtube }}](https://www.youtube.com/watch?v=g6B8vYEu9oM)
 - 全部文章–泰華醫療服務 (梁金): [{{ icons.link }}](https://tcmspro.com/category/uncategorized/)
 - 曼谷雨小雨: [{{ icons.twitter }}](https://x.com/manguyuxiaoyu)
+- Surgery Introduction (Transgender Wiki): [{{ icons.reddit }}](https://www.reddit.com/r/TransSurgeriesWiki/wiki/index/)
 
 ### PAI (Burin, Sutin) { #srs-pai }
 - PAI Clinic: [{{ icons.link }}](https://pai.co.th/)
@@ -139,7 +142,7 @@
 - 台北榮總SRS手術分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/257365690)
 - MTF性別重置手術 記錄: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/239711431)
 - SRS - Sex Reassignment Surgery (Chalterra): [{{ icons.archive }}](https://web.archive.org/web/20150510204732/http://ameblo.jp:80/chalterra77/entry-11948268399.html)
-- [閒聊] MTF SRS術後心情閒聊、FFS諮詢心得: [{{ icons.ptt }}](https://www.ptt.cc/bbs/transgender/M.1651001522.A.E38.html)
+- MTF SRS術後心情閒聊、FFS諮詢心得: [{{ icons.ptt }}](https://www.ptt.cc/bbs/transgender/M.1651001522.A.E38.html)
 - <font class="unknown">纽约免费SRS-0深度:</font> [{{ icons.telegram }}](https://t.me/NewYorkFreeSRS)
 - FTM手術心得: [{{ icons.ptt }}](https://www.ptt.cc/bbs/transgender/M.1667722916.A.E99.html)
 - 住院前的準備清單-摘除手術: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/242487733)

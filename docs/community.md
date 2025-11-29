@@ -26,7 +26,7 @@
 - 台灣非二元性別支持社群 Taiwan Nonbinary Support: [{{ icons.link }}](https://www.facebook.com/groups/1008074439681831)
 
 ## {{ icons.telegram }} Telegram { #telegram }
-- New Voice lab: [{{ icons.link }}](https://t.me/+m0rXsTRbH4A1MWJl)
+- New Voice lab: [{{ icons.link }}](https://t.me/+m0rXsTRbH4A1MWJl) [{{ icons.link }}](https://t.me/joinchat/P8X8LBuTrjveEDoMn7KzVQ)
 - Backlight Town 逆光小鎮: [{{ icons.link }}](https://forms.gle/jagHaEqpWWzwQZHk7) [{{ icons.facebook }}](https://www.facebook.com/61571690964724) [{{ icons.twitter }}](https://x.com/backlighttown)
 
 ## {{ icons.discord }} Discord { #discord }
@@ -71,7 +71,8 @@
     - r/agender: [{{ icons.link }}](https://www.reddit.com/r/agender/)
     - r/intersex: [{{ icons.link }}](https://www.reddit.com/r/intersex)
 - Medical
-    - r/TransSurgeriesWiki: [{{ icons.link }}](https://www.reddit.com/r/TransSurgeriesWiki/) [{{ icons.git }}](https://github.com/zp100/Transgender_Surgeries)
+    - r/TransWiki: [{{ icons.link }}](https://www.reddit.com/r/TransWiki/wiki/index/)
+        - r/TransSurgeriesWiki: [{{ icons.link }}](https://www.reddit.com/r/TransSurgeriesWiki/wiki/index/) [{{ icons.git }}](https://github.com/zp100/Transgender_Surgeries)
     - r/Transgender_Surgeries: [{{ icons.link }}](https://www.reddit.com/r/Transgender_Surgeries/)
     - r/AskMtFHRT: [{{ icons.link }}](https://www.reddit.com/r/AskMtFHRT/)
     - r/estrogel: [{{ icons.link }}](https://www.reddit.com/r/estrogel/)

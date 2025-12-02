@@ -88,7 +88,7 @@
 - 2024/07 PAI SRS手术物品准备清单参考: [{{ icons.link }}](https://meiza.cc/?p=1274)
 - 2025/03 击剑带师🤺的SRS之旅: [{{ icons.telegram }}](https://t.me/Jtldmio)
 - 2025/07 Moli’s 猫娘日记: [{{ icons.telegram }}](https://t.me/MoliLanxi)
-- <font class="unknown">surgery_with_dr_sutin.log:</font> [{{ icons.telegram }}](https://t.me/WindySRS)
+- 2025/11 surgery_with_dr_sutin.log: [{{ icons.telegram }}](https://t.me/WindySRS)
 - srs泰国-布林: [{{ icons.link }}](https://pizyj.notion.site/)
 
 ### Kamol { #srs-kamol }

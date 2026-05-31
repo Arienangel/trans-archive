@@ -89,6 +89,7 @@
 - 2025/03 击剑带师🤺的SRS之旅: [{{ icons.telegram }}](https://t.me/Jtldmio)
 - 2025/07 Moli’s 猫娘日记: [{{ icons.telegram }}](https://t.me/MoliLanxi)
 - 2025/11 surgery_with_dr_sutin.log: [{{ icons.telegram }}](https://t.me/WindySRS)
+- Rika的SRS随笔小记: [{{ icons.telegram }}](https://t.me/rika230909)
 - srs泰国-布林: [{{ icons.link }}](https://pizyj.notion.site/)
 
 ### Kamol { #srs-kamol }
@@ -100,6 +101,7 @@
 ### Thiti { #srs-thiti }
 - 2022/08 千叶的srs及陪别人做手术记录: [{{ icons.telegram }}](https://t.me/chibars)
 - 2023/06 SRS（泰國）紀錄分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/242707248)
+- SRS心得分享 (醫生:替迪): [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/260964047)
 
 ### WIH (Chettasak) { #srs-wih }
 - WIH Hospital: [{{ icons.link }}](https://www.wihhospital.com/)
@@ -118,6 +120,7 @@
     - 第二人生-2 (Suporn診所手術記實): [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/243076071)
 
 ### 胡瀞暄 { #srs-ChingHsuanHU }
+- 搭特.胡 | 跨性別手術相關的衛教資訊: [{{ icons.link }}](https://drhu.tw)
 - 2023/06 長庚SRS後四週半身體狀況: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/243346277)
 - 2024/06 林口長庚性別重置手術術前術後指南: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/256022377)
 - 胡瀞暄醫師性別重置手術 跨男場: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/255799205)

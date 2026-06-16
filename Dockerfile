@@ -14,5 +14,5 @@ RUN mkdocs build
 FROM docker.io/library/nginx:mainline-alpine-slim
 
 COPY --from=builder /app/site /usr/share/nginx/html
-CMD nginx -g "daemon off;"
+CMD ["nginx", "-g", "daemon off;"]
 EXPOSE 80

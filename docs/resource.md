@@ -89,7 +89,7 @@
 - 2025/03 击剑带师🤺的SRS之旅: [{{ icons.telegram }}](https://t.me/Jtldmio)
 - 2025/07 Moli’s 猫娘日记: [{{ icons.telegram }}](https://t.me/MoliLanxi)
 - 2025/11 surgery_with_dr_sutin.log: [{{ icons.telegram }}](https://t.me/WindySRS)
-- Rika的SRS随笔小记: [{{ icons.telegram }}](https://t.me/rika230909)
+- 2026/06 Rika的SRS随笔小记: [{{ icons.telegram }}](https://t.me/rika230909)
 - srs泰国-布林: [{{ icons.link }}](https://pizyj.notion.site/)
 
 ### Kamol { #srs-kamol }

@@ -1,7 +1,7 @@
 site_name: 跨性別檔案館
-site_url: !ENV [site_url, '']
-repo_url: !ENV [repo_url, '']
-edit_uri: !ENV [edit_uri, '']
+site_url: !ENV [SITE_URL, '']
+repo_url: !ENV [REPO_URL, '']
+edit_uri: !ENV [EDIT_URI, '']
 nav:
   - 網站: website.md
   - 社群: community.md
@@ -88,7 +88,7 @@ extra:
     googleplay: ":fontawesome-brands-google-play:{ .googleplay }"
     googledrive: ":fontawesome-brands-google-drive:{ .googledrive }"
     youtube: ":fontawesome-brands-youtube:{ .youtube }"
-  onion_location: !ENV [onion_location, '']
+  onion_location: !ENV [ONION_LOCATION, '']
 extra_css:
   - assets/stylesheets/global.css
   - assets/stylesheets/icons.css

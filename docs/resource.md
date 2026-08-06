@@ -123,6 +123,7 @@
 - 2023/06 長庚SRS後四週半身體狀況: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/243346277)
 - 2024/06 林口長庚性別重置手術術前術後指南: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/256022377)
 - 胡瀞暄醫師性別重置手術 跨男場: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/255799205)
+- 林口長庚 SRS ｜術前用品準備與術後照護用品心得: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/261912677)
 
 ### 施秉庚 { #srs-PinKengShih }
 - 性別重置手術中心: [{{ icons.link }}](https://transgender.com.tw/about.html)

@@ -6,6 +6,7 @@
     - 跨性別小客廳 [{{ icons.link }}](https://hotline.org.tw/pagegeneral/2844)
 - 台灣伴侶權益推動聯盟: [{{ icons.link }}](https://tapcpr.org/) [{{ icons.facebook }}](https://www.facebook.com/tapcpr)
     - 伴盟跨性別資訊平台: [{{ icons.link }}](https://transgender.tapcpr.org/)
+    - 國內外友善團體及社群整理: [{{ icons.link }}](https://transgender.tapcpr.org/archives/5969)
 - 臺灣跨性別醫學學會: [{{ icons.link }}](http://tatm.org.tw/) [{{ icons.facebook }}](https://www.facebook.com/transgendermedicaltw/)
 - 彩虹平權大平台: [{{ icons.link }}](https://equallove.tw/) [{{ icons.facebook }}](https://www.facebook.com/equallovetw)
 - 台灣同志家庭權益促進會: [{{ icons.link }}](https://lgbtfamily.org.tw/) [{{ icons.facebook }}](https://www.facebook.com/twlgbtfamily/)

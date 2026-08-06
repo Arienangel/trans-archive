@@ -7,12 +7,15 @@
 - 2018 未成年雙性人之醫療矯正手術共同性建議原則(衛服部): [{{ icons.link }}](https://dep.mohw.gov.tw/doma/cp-2708-45096-106.html)
 - 2023 全球性別承認法規一覽(​香港跨性別法律資料庫): [{{ icons.archive }}](https://web.archive.org/web/20251211214619/https://www.hktranslawdb.org/post/worldwidedb)
 - 2011 解答你的問題:關於跨性別者性別認同及性別表達(美國心理學會): [{{ icons.file }}](https://www.apa.org/topics/lgbtq/chinese-transgender.pdf)
+- 2023 203 Worst (& Safest) Countries for LGBTQ+ Travel: [{{ icons.link }}](https://asherfergusson.com/lgbtq-travel-safety/)
+- 2023 203 Best (& Worst) Countries for Trans Rights: [{{ icons.link }}](https://asherfergusson.com/global-trans-rights-index/)
 - 2024 Post-Election Anti-Trans Risk Assessment Map: [{{ icons.link }}](https://www.erininthemorning.com/p/post-election-2024-anti-trans-risk)
 - 2025 US Transgender Passport FAQ: [{{ icons.reddit }}](https://www.reddit.com/r/Passports/comments/1iga2wj/us_transgender_passport_faq/) [{{ icons.googledrive }}](https://docs.google.com/document/d/1q0UjQk-OABTdzUNokBdNToylktYsyGJd1GI5XvyyYcY/view)
+- Travel and your sexual orientation, gender identity, gender expression and sex characteristics (Government of Canada): [{{ icons.link }}](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 - TDoR list of names: [{{ icons.link }}](https://tdor.translivesmatter.info/pages/downloads)
 
 ## :octicons-book-16: 書籍/手冊 { #book }
-- SOC8: [{{ icons.link }}](https://wpath.org/publications/soc8/)
+- WPATH SOC8: [{{ icons.link }}](https://wpath.org/publications/soc8/)
 - 2015 性別不安手冊(衛服部): [{{ icons.link }}](https://health99.hpa.gov.tw/health99/HealthEducation/Detail/3245?nodeId=12)
 - 2020 多元性別權益保障種子訓練教材(行政院性平會): [{{ icons.link }}](https://gec.ey.gov.tw/Page/8B53584DC50F0FBA/54ea414c-a60e-4916-8af3-24d276dae0d6)
 - 2021 認識跨性別種子教師培訓手冊(台灣伴侶權益推動聯盟): [{{ icons.link }}](https://tapcpr.org/main-topics/gender/tseed)
@@ -36,6 +39,7 @@
 - 2019 ILGA World's Trans Legal Mapping Report: [{{ icons.link }}](https://ilga.org/trans-legal-mapping-report/)
 
 ## :fontawesome-solid-scale-balanced: 裁判書 { #judgment }
+### 免術換證
 - 2021/09/23 臺北高等行政法院 109 年度訴字第 275 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,109%2c%e8%a8%b4%2c275%2c20210923%2c1)
 - 2024/05/30 臺北高等行政法院 高等庭 111 年度訴字第 1469 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,111%2c%e8%a8%b4%2c1469%2c20240530%2c2)
 - 2024/07/11 臺北高等行政法院 高等庭 111 年度訴字第 236 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,111%2c%e8%a8%b4%2c236%2c20240711%2c2)
@@ -51,8 +55,12 @@
 - 2026/01/15 臺北高等行政法院 高等庭 112 年度訴字第 1114 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,112%2c%e8%a8%b4%2c1114%2c20260115%2c1)
 - 2026/04/16 臺北高等行政法院 高等庭 113 年度訴字第 1270 號判決 : [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,113%2c%e8%a8%b4%2c1270%2c20260416%2c2)
 - 2026/06/11 臺北高等行政法院 高等庭 114 年度訴字第 913 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,114%2c%e8%a8%b4%2c913%2c20260611%2c2)
-- 2026/07/02 臺北高等行政法院 高等庭 114 年度訴字第 499 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,114%2c%e8%a8%b4%2c499%2c20260702%2c2)
 - 2026/07/02 臺北高等行政法院 高等庭 114 年度訴字第 49 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,114%2c%e8%a8%b4%2c49%2c20260702%2c2)
+- 2026/07/02 臺北高等行政法院 高等庭 114 年度訴字第 499 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,114%2c%e8%a8%b4%2c499%2c20260702%2c2)
+
+### 損害賠償
+- 2025/09/05 臺灣桃園地方法院 114 年度訴字第 1146 號民事判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TYDV,114%2c%e8%a8%b4%2c1146%2c20250905%2c1)
+- 2026/03/13 臺灣高等法院 114 年度上字第 448 號民事判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPHV,114%2c%e4%b8%8a%2c448%2c20260313%2c2)
 
 ## :octicons-file-media-16: 影音 { #media }
 - The Gender Unicorn: [{{ icons.link }}](https://transstudent.org/gender/)

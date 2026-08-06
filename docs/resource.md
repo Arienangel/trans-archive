@@ -10,13 +10,12 @@
 - 2022.7 還在開證明、HRT及手術的醫師(PTT): [{{ icons.ptt }}](https://www.ptt.cc/bbs/transgender/M.1323013579.A.C29.html)
 - 臺灣變性評估醫院、醫師與收費情形及荷爾蒙治療項目表: [{{ icons.archive }}](https://web.archive.org/web/20230921230341/http://intermargins.net/repression/deviant/transgender/tgpamphlet/charge.htm)
 - Transmasc文档资源归纳集合: [{{ icons.link }}](https://docs.qq.com/doc/DS2ZTYkRBUHFBTllZ)
-- FTM渠道大全: [{{ icons.telegram }}](https://telegram.me/ftmcomm)
 
 ## RLE/Voice { #rle }
 - 中大尺碼鞋: [{{ icons.googledrive }}](https://docs.google.com/spreadsheets/d/1v7ulGhciRNmqKfYa1WoX0fj52cQLj8xpZCYBX8Y3iiY/view)
 - 服飾鞋子商家相關表單: [{{ icons.googledrive }}](https://docs.google.com/spreadsheets/d/19ab1-eOeMH0scveo6WcyHMPzvMU-MZvWBSA03pVV0U4/view)
 - TransVoice Wiki: [{{ icons.link }}中文版](https://transvoice-wiki.pages.dev/) [{{ icons.link }}英文版](https://wiki.sumianvoice.com/)
-- Voice Lab! 新手包: [{{ icons.telegram }}](https://telegram.me/+m0rXsTRbH4A1MWJl) [{{ icons.git }}](https://github.com/awesometrans/archive/blob/main/%E5%A3%B0%E9%9F%B3/Voice%20Lab!%20%E6%96%B0%E6%89%8B%E5%8C%85)
+- Voice Lab! 新手包: [{{ icons.telegram }}](https://telegram.me/+m0rXsTRbH4A1MWJl)
 - 關於嗓音訓練，可以有與不該有的期待: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/242673921)
 - 跨性別嗓音治療心得#振興醫院: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/252928378)
 - 嗓音治療神秘之旅: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/241975313) [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/242280795)
@@ -44,7 +43,7 @@
 - 跨性別女性化賀爾蒙療法(施秉庚): [{{ icons.link }}](https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=6907)
 - 女性化賀爾蒙治療HRT基礎知識(不明小站): [{{ icons.file }}](./assets/documents/女性化賀爾蒙治療HRT基礎知識(不明小站).md)
 - 跨男的賀爾蒙置換療法（HRT）實用入門手冊: [{{ icons.link }}](https://trans-attaboy.com/hrt-guidebook/)
-- MtF HRT 资料: [{{ icons.link }}](https://docs.hrt.guide/)
+- MtF HRT 资料: [{{ icons.archive }}](https://web.archive.org/web/20251116203819/https://docs.hrt.guide/)
 - 「荷爾蒙的大小事」講座—個人重點筆記分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/235747370)
 - 18歲就確定好自己要當男生！施打HRT激素替代療法7個月的心得（睪固酮）: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/256073954)
 - 跨女HRT經驗分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/240811350)
@@ -93,7 +92,7 @@
 - srs泰国-布林: [{{ icons.link }}](https://pizyj.notion.site/)
 
 ### Kamol { #srs-kamol }
-- Gender Reassignment / SRS (Kamol Hospital): [{{ icons.link }}](https://www.kamolhospital.com/before-after/3/gender-reassignment-srs)
+- Gender Reassignment / SRS (Kamol Hospital): [{{ icons.link }}](https://kamolhospital.com/before-after/)
 - 2022/01 Gogo变成猫猫了——SRS日志: [{{ icons.link }}](https://blog.gogo.moe/gogo_became_a_cat/)
 - 2024/02 kamol 0深进店体验: [{{ icons.telegram }}](https://telegram.me/kamolzerodepthexperience)
 - 2025/03 静静的变（橘）猫日记: [{{ icons.telegram }}](https://telegram.me/miaomiao202503010)
@@ -139,14 +138,12 @@
 
 ### 陳柏諺 { #srs-PoYenChen }
 - 陳柏諺醫師跨性別手術札記 性別重置手術: [{{ icons.link }}](https://chenpoyen.com/)
-- SRS術後七周: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/259427214)
 
 ### 其他 { #srs-other }
 - 台北榮總SRS手術分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/257365690)
-- MTF性別重置手術 記錄: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/239711431)
 - SRS - Sex Reassignment Surgery (Chalterra): [{{ icons.archive }}](https://web.archive.org/web/20150510204732/http://ameblo.jp:80/chalterra77/entry-11948268399.html)
 - MTF SRS術後心情閒聊、FFS諮詢心得: [{{ icons.ptt }}](https://www.ptt.cc/bbs/transgender/M.1651001522.A.E38.html)
-- <font class="unknown">纽约免费SRS-0深度:</font> [{{ icons.telegram }}](https://telegram.me/NewYorkFreeSRS)
+- 2026/07 纽约免费SRS-0深度: [{{ icons.telegram }}](https://telegram.me/NewYorkFreeSRS)
 - FTM手術心得: [{{ icons.ptt }}](https://www.ptt.cc/bbs/transgender/M.1667722916.A.E99.html)
 - 住院前的準備清單-摘除手術: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/242487733)
 - My Top Surgery Experience: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/241450350)

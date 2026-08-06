@@ -49,7 +49,6 @@
     - r/trans: [{{ icons.link }}](https://www.reddit.com/r/trans/)
     - r/transgender: [{{ icons.link }}](https://www.reddit.com/r/transgender/)
     - r/transgender_support: [{{ icons.link }}](https://www.reddit.com/r/transgender_support/)
-    - r/transhealth: [{{ icons.link }}](https://www.reddit.com/r/transhealth/)
     - r/TransLater: [{{ icons.link }}](https://www.reddit.com/r/TransLater/)
     - r/transpassing: [{{ icons.link }}](https://www.reddit.com/r/transpassing/)
     - r/TransSpace: [{{ icons.link }}](https://www.reddit.com/r/TransSpace/)

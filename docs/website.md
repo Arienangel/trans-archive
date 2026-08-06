@@ -3,7 +3,7 @@
 - 台灣性別平等教育協會: [{{ icons.link }}](https://tgeea.org.tw/) [{{ icons.facebook }}](https://www.facebook.com/tgeea)
 - 台灣同志諮詢熱線協會: [{{ icons.link }}](https://hotline.org.tw/) [{{ icons.facebook }}](https://www.facebook.com/TaiwanHotline) [{{ icons.facebook }}南辦](https://www.facebook.com/SouthHotline)
     - 跨性別聚會/跨性別同樂會/晃遊性別系列講座 [{{ icons.link }}](https://hotline.org.tw/pagegeneral/2843)
-    - 跨性別小客廳 [{{ icons.link }}](https://hotline.org.tw/pagegeneral/2844) [{{ icons.link }}](https://forms.gle/b8Zae69zVXtx5Gun9)
+    - 跨性別小客廳 [{{ icons.link }}](https://hotline.org.tw/pagegeneral/2844)
 - 台灣伴侶權益推動聯盟: [{{ icons.link }}](https://tapcpr.org/) [{{ icons.facebook }}](https://www.facebook.com/tapcpr)
     - 伴盟跨性別資訊平台: [{{ icons.link }}](https://transgender.tapcpr.org/)
 - 臺灣跨性別醫學學會: [{{ icons.link }}](http://tatm.org.tw/) [{{ icons.facebook }}](https://www.facebook.com/transgendermedicaltw/)
@@ -30,11 +30,11 @@
 - Gender Dysphoria Bible: [{{ icons.link }}](https://genderdysphoria.fyi/) [{{ icons.git }}](https://github.com/GenderDysphoria/GenderDysphoria.fyi/)
 - Transgender Lost Years: [{{ icons.git }}](https://github.com/KristallWang/Transgender-lost-years)
 - RLE Wiki: [{{ icons.link }}](https://rle.wiki/) [{{ icons.git }}](https://github.com/project-trans/RLE-wiki/)
-- MtF HRT 资料: [{{ icons.link }}](https://docs.hrt.guide/) [{{ icons.git }}](https://github.com/BBleae/hrt-book/)
+- MtF HRT 资料: [{{ icons.archive }}](https://web.archive.org/web/20251116203819/https://docs.hrt.guide/) [{{ icons.git }}](https://github.com/BBleae/hrt-book/) [{{ icons.googledrive }}](https://docs.google.com/presentation/d/1PzE-rmtwBMOrgXcsI_RIDAKTUIe3fx5h-PmEbzRgBBA)
 
 - Trans Voice Wiki
     - 中文: [{{ icons.link }}](https://transvoice-wiki.pages.dev/) [{{ icons.git }}](https://github.com/trans-archive/TransVoice-Wiki/)
-    - English: [{{ icons.link }}](https://wiki.sumianvoice.com/) [{{ icons.git }}](https://github.com/trans-archive/TransVoice-Wiki/)
+    - English: [{{ icons.link }}](https://wiki.sumianvoice.com/) [{{ icons.git }}](https://github.com/SumianVoice/TransVoice-Wiki/)
 
 - 成为女孩子的声音！: [{{ icons.link }}](https://vocal.mtf.wiki/) [{{ icons.git }}](https://github.com/trans-archive/jyosei-guide)
 - 女性倾向跨性别者科学: [{{ icons.link }}](https://tfsci.mtf.wiki/) [{{ icons.git }}](https://github.com/project-trans/transfeminine-science/)

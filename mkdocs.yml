@@ -87,7 +87,6 @@ extra:
     googleplay: ":fontawesome-brands-google-play:{ .googleplay }"
     googledrive: ":fontawesome-brands-google-drive:{ .googledrive }"
     youtube: ":fontawesome-brands-youtube:{ .youtube }"
-  onion_location: !ENV [ONION_LOCATION, '']
 extra_css:
   - assets/stylesheets/global.css
   - assets/stylesheets/icons.css

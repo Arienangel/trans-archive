@@ -28,7 +28,6 @@ jobs:
           SITE_URL: ${{ vars.SITE_URL }}
           REPO_URL: ${{ vars.REPO_URL }}
           EDIT_URI: ${{ vars.EDIT_URI }}
-          ONION_LOCATION: ${{ vars.ONION_LOCATION }}
       - uses: actions/cache/save@v6
         with:
           path: site

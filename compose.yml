@@ -8,7 +8,6 @@ services:
         - SITE_URL=${SITE_URL}
         - REPO_URL=${REPO_URL}
         - EDIT_URI=${EDIT_URI}
-        - ONION_LOCATION=${ONION_LOCATION}
     container_name: trans-archive
     restart: unless-stopped
     ports:

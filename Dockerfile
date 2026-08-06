@@ -8,7 +8,6 @@ COPY . /app
 ARG SITE_URL
 ARG REPO_URL
 ARG EDIT_URI
-ARG ONION_LOCATION
 RUN mkdocs build
 
 FROM docker.io/library/nginx:mainline-alpine-slim

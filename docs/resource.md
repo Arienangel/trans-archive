@@ -3,12 +3,7 @@
 ## 醫療資源清單 { #doctor }
 - 跨性別醫療資源(台灣同志諮詢熱線協會): [{{ icons.link }}](https://hotline.org.tw/pagegeneral/3244)
 - 友善醫師與諮商資源整理(伴盟跨性別資訊平台): [{{ icons.link }}](https://transgender.tapcpr.org/archives/11189)
-- 性別友善精神科醫師名單(顏正芳): [{{ icons.file }}](./assets/documents/性別友善精神科醫師名單(顏正芳).md)
-- 性別友善精神科醫師(未竟之路): [{{ icons.file }}](./assets/documents/性別友善精神科醫師(未竟之路).md)
-- 跨性別友善精神科醫生(不明小站): [{{ icons.file }}](./assets/documents/跨性別友善精神科醫生(不明小站).md)
-- 賀爾蒙治療醫師(未竟之路): [{{ icons.file }}](./assets/documents/賀爾蒙治療醫師(未竟之路).md)
 - 2022.7 還在開證明、HRT及手術的醫師(PTT): [{{ icons.ptt }}](https://www.ptt.cc/bbs/transgender/M.1323013579.A.C29.html)
-- 臺灣變性評估醫院、醫師與收費情形及荷爾蒙治療項目表: [{{ icons.archive }}](https://web.archive.org/web/20230921230341/http://intermargins.net/repression/deviant/transgender/tgpamphlet/charge.htm)
 - Transmasc文档资源归纳集合: [{{ icons.link }}](https://docs.qq.com/doc/DS2ZTYkRBUHFBTllZ)
 
 ## RLE/Voice { #rle }
@@ -41,7 +36,6 @@
 ## HRT { #hrt }
 - 荷爾蒙治療-MTF(劉妙真): [{{ icons.file }}](https://sex.ncu.edu.tw/intermargins/repression/deviant/transgender/tgpamphlet/2004Jan-Jun/hormones-MtF.pdf)
 - 跨性別女性化賀爾蒙療法(施秉庚): [{{ icons.link }}](https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=6907)
-- 女性化賀爾蒙治療HRT基礎知識(不明小站): [{{ icons.file }}](./assets/documents/女性化賀爾蒙治療HRT基礎知識(不明小站).md)
 - 跨男的賀爾蒙置換療法（HRT）實用入門手冊: [{{ icons.link }}](https://trans-attaboy.com/hrt-guidebook/)
 - MtF HRT 资料: [{{ icons.archive }}](https://web.archive.org/web/20251116203819/https://docs.hrt.guide/)
 - 「荷爾蒙的大小事」講座—個人重點筆記分享: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/235747370)

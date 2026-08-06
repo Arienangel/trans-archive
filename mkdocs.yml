@@ -40,7 +40,6 @@ theme:
     repo: fontawesome/brands/github 
     edit: material/pencil
     view: material/eye
-  custom_dir: overrides
 plugins:
   - macros:
       on_error_fail: true

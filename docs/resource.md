@@ -14,13 +14,15 @@
 - 關於嗓音訓練，可以有與不該有的期待: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/242673921)
 - 跨性別嗓音治療心得#振興醫院: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/252928378)
 - 嗓音治療神秘之旅: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/241975313) [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/242280795)
-- Genderfluent: [{{ icons.link }}](https://app.genderfluentapp.com/)
-- saina.chat: [{{ icons.link }}](https://saina.chat/)
-- Voice Presentation Analyzer: [{{ icons.link }}](https://shusei.github.io/vpa/)
-- Voice Tools (Alpha): [{{ icons.link }}](https://voice.hydev.org/)
-- Spectroid: [{{ icons.googleplay }}](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum)
-- Voice Tools: [{{ icons.googleplay }}](https://play.google.com/store/apps/details?id=com.DevExtras.VoiceTools)
-- Voice Pitch Analyzer: [{{ icons.googleplay }}](https://apkpure.com/voice-pitch-analyzer/de.lilithwittmann.voicepitchanalyzer)
+- Voice website
+    - Genderfluent: [{{ icons.link }}](https://app.genderfluentapp.com/)
+    - saina.chat: [{{ icons.link }}](https://saina.chat/)
+    - Voice Presentation Analyzer: [{{ icons.link }}](https://shusei.github.io/vpa/)
+    - Voice Tools (Alpha): [{{ icons.link }}](https://voice.hydev.org/)
+- Voice app
+    - Spectroid: [{{ icons.googleplay }}](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum)
+    - Voice Tools: [{{ icons.googleplay }}](https://play.google.com/store/apps/details?id=com.DevExtras.VoiceTools)
+    - Voice Pitch Analyzer: [{{ icons.googleplay }}](https://apkpure.com/voice-pitch-analyzer/de.lilithwittmann.voicepitchanalyzer)
 
 ## 精神科/兵役 { #gd }
 - 《分享》台大醫院開立 GID 流程: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/237079644)
@@ -118,6 +120,7 @@
 - 2024/06 林口長庚性別重置手術術前術後指南: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/256022377)
 - 胡瀞暄醫師性別重置手術 跨男場: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/255799205)
 - 林口長庚 SRS ｜術前用品準備與術後照護用品心得: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/261912677)
+    - SRS術後疼痛心得｜真正的大魔王是腹部脹痛: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/261931129)
 
 ### 施秉庚 { #srs-PinKengShih }
 - 性別重置手術中心: [{{ icons.link }}](https://transgender.com.tw/about.html)

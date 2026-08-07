@@ -14,6 +14,13 @@ hide:
 # 跨性別檔案館
 
 ## :octicons-globe-16: [網站](./website.md) { #website }
+<div class="grid" markdown>
+
+[跨性別組織](./website.md#organization){ .md-button }
+
+[跨性別知識庫](./website.md#wiki){ .md-button }
+
+</div>
 
 ## :octicons-people-16: [社群](./community.md) { #community }
 <div class="grid" markdown>

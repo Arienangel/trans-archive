@@ -1,5 +1,6 @@
 # :octicons-globe-16: 網站
 
+## 跨性別組織 { #organization }
 - 台灣性別平等教育協會: [{{ icons.link }}](https://tgeea.org.tw/) [{{ icons.facebook }}](https://www.facebook.com/tgeea)
 - 台灣同志諮詢熱線協會: [{{ icons.link }}](https://hotline.org.tw/) [{{ icons.facebook }}](https://www.facebook.com/TaiwanHotline) [{{ icons.facebook }}南辦](https://www.facebook.com/SouthHotline)
     - 跨性別聚會/跨性別同樂會/晃遊性別系列講座 [{{ icons.link }}](https://hotline.org.tw/pagegeneral/2843)
@@ -11,19 +12,22 @@
 - 彩虹平權大平台: [{{ icons.link }}](https://equallove.tw/) [{{ icons.facebook }}](https://www.facebook.com/equallovetw)
 - 台灣同志家庭權益促進會: [{{ icons.link }}](https://lgbtfamily.org.tw/) [{{ icons.facebook }}](https://www.facebook.com/twlgbtfamily/)
 - 台灣非二元酷兒浪子: [{{ icons.facebook }}](https://www.facebook.com/TaiwanNonbinary/)
-- 社團法人台灣基地協會: [{{ icons.link }}](https://www.gdi.org.tw/) [{{ icons.facebook }}](https://www.facebook.com/TaichungGDi/)
+- 台灣基地協會: [{{ icons.link }}](https://www.gdi.org.tw/) [{{ icons.facebook }}](https://www.facebook.com/TaichungGDi/)
 - 高雄同志大遊行: [{{ icons.facebook }}](https://www.facebook.com/KaohsiungPRIDE/)
 - GisneyLand 風城部屋: [{{ icons.link }}](http://www.gisneyland.org/) [{{ icons.facebook }}](https://www.facebook.com/GisneyLandHSC/)
 - GisneyLand 諸羅部屋: [{{ icons.facebook }}](https://www.facebook.com/GisneyLandChiaYi/)
 - GisneyLand 紅樓部屋: [{{ icons.facebook }}](https://www.facebook.com/GisneyLand.Redhouse/)
 - 台灣性別不明關懷協會: [{{ icons.link }}](https://www.istscare.org/) [{{ icons.facebook }}](https://www.facebook.com/istscareTW/)
-- 台灣性/別不羈充電站 : [{{ icons.facebook }}](https://www.facebook.com/twgendermisfits/)
 - 台灣友善跨性別展望協會 : [{{ icons.facebook }}](https://www.facebook.com/TFT331)
+- 台灣性/別不羈充電站 : [{{ icons.facebook }}](https://www.facebook.com/twgendermisfits/)
+- 酷兒翻越: [{{ icons.link }}](https://www.queermargins.tw/) [{{ icons.facebook }}](https://www.facebook.com/twqueermargins/)
+- 偽娘基地: [{{ icons.facebook }}](https://www.facebook.com/twcdfamily/)
+
+## 跨性別知識庫 { #wiki }
 - Self ID Taiwan 性別自決法與跨性別議題資訊: [{{ icons.link }}](https://selfid.tw/)
 - 臺北市性別平等辦公室 跨性別相關措施及服務方案: [{{ icons.link }}](https://www.oge.gov.taipei/cp.aspx?n=08C9C667AEC74C9D)
 - transgender.taipei: [{{ icons.archive }}](https://web.archive.org/web/20250319234514/https://transgender.taipei/)
 - 跨性別倡議站: [{{ icons.link }}](https://transgenderpunk.wordpress.com/)
----
 - 2345.LGBT 跨性别导航: [{{ icons.link }}](https://2345.lgbt/) [{{ icons.git }}](https://github.com/project-trans/2345.LGBT)
 - 跨与多元性别档案: [{{ icons.link }}](https://digital.transchinese.org/) [{{ icons.git }}](https://github.com/project-polymorph/trans-digital-cn)
 - MtF Wiki: [{{ icons.link }}](https://mtf.wiki/) [{{ icons.git }}](https://github.com/project-trans/MtF-wiki/)
@@ -32,14 +36,12 @@
 - Transgender Lost Years: [{{ icons.git }}](https://github.com/KristallWang/Transgender-lost-years)
 - RLE Wiki: [{{ icons.link }}](https://rle.wiki/) [{{ icons.git }}](https://github.com/project-trans/RLE-wiki/)
 - MtF HRT 资料: [{{ icons.archive }}](https://web.archive.org/web/20251116203819/https://docs.hrt.guide/) [{{ icons.git }}](https://github.com/BBleae/hrt-book/) [{{ icons.googledrive }}](https://docs.google.com/presentation/d/1PzE-rmtwBMOrgXcsI_RIDAKTUIe3fx5h-PmEbzRgBBA)
-
 - Trans Voice Wiki
     - 中文: [{{ icons.link }}](https://transvoice-wiki.pages.dev/) [{{ icons.git }}](https://github.com/trans-archive/TransVoice-Wiki/)
     - English: [{{ icons.link }}](https://wiki.sumianvoice.com/) [{{ icons.git }}](https://github.com/SumianVoice/TransVoice-Wiki/)
-
 - 成为女孩子的声音！: [{{ icons.link }}](https://vocal.mtf.wiki/) [{{ icons.git }}](https://github.com/trans-archive/jyosei-guide)
 - 女性倾向跨性别者科学: [{{ icons.link }}](https://tfsci.mtf.wiki/) [{{ icons.git }}](https://github.com/project-trans/transfeminine-science/)
-- Susan's Place Transgender Resources: [{{ icons.link }}](https://www.susans.org/) [{{ icons.archive }}](https://web.archive.org/web/20231219125633/https://www.susans.org/wiki/Main_Page)
-- Nonbinary Wiki: [{{ icons.link }}](https://nonbinary.wiki/)
 - LGBTQIA+ Wiki: [{{ icons.link }}](https://lgbtqia.wiki/)
 - LGBTQIA+ Wiki (Fandom): [{{ icons.link }}](https://lgbtqia.fandom.com/)
+- Nonbinary Wiki: [{{ icons.link }}](https://nonbinary.wiki/)
+- Susan's Place Transgender Resources: [{{ icons.link }}](https://www.susans.org/) [{{ icons.archive }}](https://web.archive.org/web/20231219125633/https://www.susans.org/wiki/Main_Page)

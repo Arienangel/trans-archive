@@ -30,11 +30,13 @@
 - Backlight Town 逆光小鎮: [{{ icons.link }}](https://forms.gle/jagHaEqpWWzwQZHk7) [{{ icons.facebook }}](https://www.facebook.com/61571690964724) [{{ icons.twitter }}](https://x.com/backlighttown)
 
 ## {{ icons.discord }} Discord { #discord }
-- Spectrum: [{{ icons.link }}](http://discord.gg/lgbtq)
-- Transmutation: [{{ icons.link }}](https://discord.gg/hA69mbpF5r)
-- 台灣跨性別交流區: [{{ icons.link }}](https://discord.gg/EB3uYnamXs)
+- Transmutation: [{{ icons.link }}](https://discord.com/invite/hA69mbpF5r)
+- 台灣跨性別交流區: [{{ icons.link }}](https://discord.com/invite/EB3uYnamXs)
 - 台灣跨性別俱樂部: {{ icons.unknown }}
+- 台灣MTF聚集地: [{{ icons.link }}](https://discord.com/invite/5kdGYrtfpW)
+- 偽聲小基地: [{{ icons.link }}](https://discord.com/invite/MwuHBpJwrz)
 - Project Trans Community: [{{ icons.link }}](https://discord.com/invite/vARta64sBq)
+- Spectrum: [{{ icons.link }}](http://discord.com/invite/lgbtq)
 
 ## {{ icons.reddit }} Reddit { #reddit }
 - LGBT+

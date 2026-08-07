@@ -1,5 +1,6 @@
-1. Source Code: MIT License
+## 1. Source Code: MIT License
 
+```
 MIT License
 
 Copyright (c) 2026 Arienangel
@@ -21,9 +22,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
 
-2. Wiki & Documentation: CC BY-SA 4.0
+## 2. Wiki & Documentation: CC BY-SA 4.0
 
+```
 Attribution-ShareAlike 4.0 International
 
 =======================================================================
@@ -451,3 +454,4 @@ the avoidance of doubt, this paragraph does not form part of the
 public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
+```

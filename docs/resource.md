@@ -121,6 +121,7 @@
 - 胡瀞暄醫師性別重置手術 跨男場: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/255799205)
 - 林口長庚 SRS ｜術前用品準備與術後照護用品心得: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/261912677)
     - SRS術後疼痛心得｜真正的大魔王是腹部脹痛: [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/261931129)
+- 記長庚桃園零深手術 zero-depth srs in CGMH (taoyuan): [{{ icons.dcard }}](https://www.dcard.tw/f/trans/p/261954953)
 
 ### 施秉庚 { #srs-PinKengShih }
 - 性別重置手術中心: [{{ icons.link }}](https://transgender.com.tw/about.html)

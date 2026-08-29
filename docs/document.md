@@ -48,7 +48,7 @@
 	- 2023/09/21 最高行政法院 110 年度上字第 558 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPAA,110%2c%e4%b8%8a%2c558%2c20230921%2c1)
 - 2024/08/15 臺北高等行政法院 高等庭 112 年度訴字第 1067 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,112%2c%e8%a8%b4%2c1067%2c20240815%2c2)
 - 2024/08/26 臺北高等行政法院 高等庭 110 年度訴字第 522 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,110%2c%e8%a8%b4%2c522%2c20240826%2c5)
-	- 2023/02/10 112年憲裁字第4號: [{{ icons.link }}](https://cons.judicial.gov.tw/docdata.aspx?fid=40&id=346698)
+	- 2023/02/10 憲法法庭 112 年憲裁字第 4 號裁定: [{{ icons.link }}](https://cons.judicial.gov.tw/docdata.aspx?fid=40&id=346698)
 - 2024/09/25 高雄高等行政法院 高等庭 113 年度訴字第 155 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=KSBA,113%2c%e8%a8%b4%2c155%2c20240925%2c2)
 - 2025/06/19 臺北高等行政法院 高等庭 113 年度訴字第 1213 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,113%2c%e8%a8%b4%2c1213%2c20250619%2c2)
 - 2025/11/06 臺北高等行政法院 高等庭 114 年度訴字第 404 號判決: [{{ icons.link }}](https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPBA,114%2c%e8%a8%b4%2c404%2c20251106%2c2)
